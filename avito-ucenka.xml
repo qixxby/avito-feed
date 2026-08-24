@@ -162,6 +162,7 @@
   <HeatingSubType>Радиаторы</HeatingSubType>
   <RadiatorType>Панельный</RadiatorType>
   <Material>Сталь</Material>
+  <RadiatorSectionsCount>1</RadiatorSectionsCount>
   <PriceFor>Штуку</PriceFor>
  </Ad>
  <Ad>
@@ -263,6 +264,7 @@
   <HeatingSubType>Радиаторы</HeatingSubType>
   <RadiatorType>Трубчатый</RadiatorType>
   <Material>Сталь</Material>
+  <RadiatorSectionsCount>1</RadiatorSectionsCount>
   <PriceFor>Штуку</PriceFor>
  </Ad>
  <Ad>
@@ -987,6 +989,7 @@ Tesy BELLISLIMO CLOUD - серия накопительных водогрейн
   <HeatingSubType>Радиаторы</HeatingSubType>
   <RadiatorType>Панельный</RadiatorType>
   <Material>Сталь</Material>
+  <RadiatorSectionsCount>1</RadiatorSectionsCount>
   <PriceFor>Штуку</PriceFor>
  </Ad>
  <Ad>
@@ -1035,6 +1038,7 @@ Tesy BELLISLIMO CLOUD - серия накопительных водогрейн
   <HeatingSubType>Радиаторы</HeatingSubType>
   <RadiatorType>Секционный</RadiatorType>
   <Material>Биметалл</Material>
+  <RadiatorSectionsCount>12</RadiatorSectionsCount>
   <PriceFor>Штуку</PriceFor>
  </Ad>
  <Ad>
@@ -1648,6 +1652,7 @@ Tesy BELLISLIMO CLOUD - серия накопительных водогрейн
   <HeatingSubType>Радиаторы</HeatingSubType>
   <RadiatorType>Секционный</RadiatorType>
   <Material>Биметалл</Material>
+  <RadiatorSectionsCount>11</RadiatorSectionsCount>
   <PriceFor>Штуку</PriceFor>
  </Ad>
  <Ad>
@@ -1806,6 +1811,7 @@ Tesy BELLISLIMO CLOUD - серия накопительных водогрейн
   <HeatingSubType>Радиаторы</HeatingSubType>
   <RadiatorType>Панельный</RadiatorType>
   <Material>Сталь</Material>
+  <RadiatorSectionsCount>1</RadiatorSectionsCount>
   <PriceFor>Штуку</PriceFor>
  </Ad>
  <Ad>
@@ -2059,6 +2065,7 @@ Tesy BELLISLIMO CLOUD - серия накопительных водогрейн
   <HeatingSubType>Радиаторы</HeatingSubType>
   <RadiatorType>Панельный</RadiatorType>
   <Material>Сталь</Material>
+  <RadiatorSectionsCount>1</RadiatorSectionsCount>
   <PriceFor>Штуку</PriceFor>
  </Ad>
  <Ad>
@@ -7474,6 +7481,7 @@ ECLIPSE INVERTER 2024 – серия современных, производи�
   <HeatingSubType>Радиаторы</HeatingSubType>
   <RadiatorType>Панельный</RadiatorType>
   <Material>Сталь</Material>
+  <RadiatorSectionsCount>1</RadiatorSectionsCount>
   <PriceFor>Штуку</PriceFor>
  </Ad>
  <Ad>
@@ -7513,6 +7521,7 @@ ECLIPSE INVERTER 2024 – серия современных, производи�
   <HeatingSubType>Радиаторы</HeatingSubType>
   <RadiatorType>Панельный</RadiatorType>
   <Material>Сталь</Material>
+  <RadiatorSectionsCount>1</RadiatorSectionsCount>
   <PriceFor>Штуку</PriceFor>
  </Ad>
  <Ad>
@@ -7567,6 +7576,7 @@ ECLIPSE INVERTER 2024 – серия современных, производи�
   <HeatingSubType>Радиаторы</HeatingSubType>
   <RadiatorType>Секционный</RadiatorType>
   <Material>Биметалл</Material>
+  <RadiatorSectionsCount>14</RadiatorSectionsCount>
   <PriceFor>Штуку</PriceFor>
  </Ad>
  <Ad>
@@ -7720,6 +7730,7 @@ ECLIPSE INVERTER 2024 – серия современных, производи�
   <HeatingSubType>Радиаторы</HeatingSubType>
   <RadiatorType>Панельный</RadiatorType>
   <Material>Сталь</Material>
+  <RadiatorSectionsCount>1</RadiatorSectionsCount>
   <PriceFor>Штуку</PriceFor>
  </Ad>
  <Ad>
@@ -7820,6 +7831,7 @@ ECLIPSE INVERTER 2024 – серия современных, производи�
   <HeatingSubType>Радиаторы</HeatingSubType>
   <RadiatorType>Панельный</RadiatorType>
   <Material>Сталь</Material>
+  <RadiatorSectionsCount>1</RadiatorSectionsCount>
   <PriceFor>Штуку</PriceFor>
  </Ad>
  <Ad>
@@ -7851,6 +7863,7 @@ ECLIPSE INVERTER 2024 – серия современных, производи�
   <HeatingSubType>Радиаторы</HeatingSubType>
   <RadiatorType>Панельный</RadiatorType>
   <Material>Сталь</Material>
+  <RadiatorSectionsCount>1</RadiatorSectionsCount>
   <PriceFor>Штуку</PriceFor>
  </Ad>
  <Ad>
@@ -7903,6 +7916,7 @@ ECLIPSE INVERTER 2024 – серия современных, производи�
   <HeatingSubType>Радиаторы</HeatingSubType>
   <RadiatorType>Панельный</RadiatorType>
   <Material>Сталь</Material>
+  <RadiatorSectionsCount>1</RadiatorSectionsCount>
   <PriceFor>Штуку</PriceFor>
  </Ad>
  <Ad>
@@ -7937,6 +7951,7 @@ ECLIPSE INVERTER 2024 – серия современных, производи�
   <HeatingSubType>Радиаторы</HeatingSubType>
   <RadiatorType>Секционный</RadiatorType>
   <Material>Сталь</Material>
+  <RadiatorSectionsCount>1</RadiatorSectionsCount>
   <PriceFor>Штуку</PriceFor>
  </Ad>
  <Ad>
@@ -7987,6 +8002,7 @@ ECLIPSE INVERTER 2024 – серия современных, производи�
   <HeatingSubType>Радиаторы</HeatingSubType>
   <RadiatorType>Секционный</RadiatorType>
   <Material>Сталь</Material>
+  <RadiatorSectionsCount>1</RadiatorSectionsCount>
   <PriceFor>Штуку</PriceFor>
  </Ad>
  <Ad>
@@ -8030,6 +8046,7 @@ Compact 22 – это модельная линейка панельных ра�
   <HeatingSubType>Радиаторы</HeatingSubType>
   <RadiatorType>Панельный</RadiatorType>
   <Material>Сталь</Material>
+  <RadiatorSectionsCount>1</RadiatorSectionsCount>
   <PriceFor>Штуку</PriceFor>
  </Ad>
  <Ad>
@@ -8095,6 +8112,7 @@ Compact 22 – это модельная линейка панельных ра�
   <HeatingSubType>Радиаторы</HeatingSubType>
   <RadiatorType>Панельный</RadiatorType>
   <Material>Сталь</Material>
+  <RadiatorSectionsCount>1</RadiatorSectionsCount>
   <PriceFor>Штуку</PriceFor>
  </Ad>
  <Ad>
@@ -8128,6 +8146,7 @@ Compact 22 – это модельная линейка панельных ра�
   <HeatingSubType>Радиаторы</HeatingSubType>
   <RadiatorType>Панельный</RadiatorType>
   <Material>Сталь</Material>
+  <RadiatorSectionsCount>1</RadiatorSectionsCount>
   <PriceFor>Штуку</PriceFor>
  </Ad>
  <Ad>
@@ -8190,6 +8209,7 @@ Compact 22 – это модельная линейка панельных ра�
   <HeatingSubType>Радиаторы</HeatingSubType>
   <RadiatorType>Панельный</RadiatorType>
   <Material>Сталь</Material>
+  <RadiatorSectionsCount>1</RadiatorSectionsCount>
   <PriceFor>Штуку</PriceFor>
  </Ad>
  <Ad>
@@ -8226,6 +8246,7 @@ Compact 22 – это модельная линейка панельных ра�
   <HeatingSubType>Радиаторы</HeatingSubType>
   <RadiatorType>Секционный</RadiatorType>
   <Material>Сталь</Material>
+  <RadiatorSectionsCount>1</RadiatorSectionsCount>
   <PriceFor>Штуку</PriceFor>
  </Ad>
  <Ad>
@@ -8301,6 +8322,7 @@ Compact 22 – это модельная линейка панельных ра�
   <HeatingSubType>Радиаторы</HeatingSubType>
   <RadiatorType>Панельный</RadiatorType>
   <Material>Сталь</Material>
+  <RadiatorSectionsCount>1</RadiatorSectionsCount>
   <PriceFor>Штуку</PriceFor>
  </Ad>
  <Ad>
@@ -8542,6 +8564,7 @@ Iseo 350 – среднемощная линейка в семействе це�
   <HeatingSubType>Радиаторы</HeatingSubType>
   <RadiatorType>Секционный</RadiatorType>
   <Material>Алюминий</Material>
+  <RadiatorSectionsCount>10</RadiatorSectionsCount>
   <PriceFor>Штуку</PriceFor>
  </Ad>
  <Ad>
@@ -9303,6 +9326,7 @@ Multi Gamma Gloria - это обновленный модельный ряд в�
   <HeatingSubType>Радиаторы</HeatingSubType>
   <RadiatorType>Панельный</RadiatorType>
   <Material>Сталь</Material>
+  <RadiatorSectionsCount>1</RadiatorSectionsCount>
   <PriceFor>Штуку</PriceFor>
  </Ad>
  <Ad>
@@ -9609,6 +9633,7 @@ Multi Gamma Gloria - это обновленный модельный ряд в�
   <HeatingSubType>Радиаторы</HeatingSubType>
   <RadiatorType>Панельный</RadiatorType>
   <Material>Сталь</Material>
+  <RadiatorSectionsCount>1</RadiatorSectionsCount>
   <PriceFor>Штуку</PriceFor>
  </Ad>
  <Ad>
@@ -10610,6 +10635,7 @@ SWH - серия комбинированных водонагревателей
   <HeatingSubType>Радиаторы</HeatingSubType>
   <RadiatorType>Секционный</RadiatorType>
   <Material>Алюминий</Material>
+  <RadiatorSectionsCount>12</RadiatorSectionsCount>
   <PriceFor>Штуку</PriceFor>
  </Ad>
  <Ad>
@@ -10722,6 +10748,7 @@ SWH - серия комбинированных водонагревателей
   <HeatingSubType>Радиаторы</HeatingSubType>
   <RadiatorType>Панельный</RadiatorType>
   <Material>Сталь</Material>
+  <RadiatorSectionsCount>1</RadiatorSectionsCount>
   <PriceFor>Штуку</PriceFor>
  </Ad>
  <Ad>
