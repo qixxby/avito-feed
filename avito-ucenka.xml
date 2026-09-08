@@ -2387,32 +2387,6 @@ Royal Flame (Роял Флейм) Lumsden STD (Белый дуб) станет �
   <GoodsSubType>Другое</GoodsSubType>
  </Ad>
  <Ad>
-  <Title>Уцененный портал для камина Firelight Simple Classic белый мрамор уцененный</Title>
-  <Title>Уцененный портал для камина Simple Classic белый мрамор уцененный</Title>
-  <Price>5990</Price>
-  <Vendor>Firelight</Vendor>
-  <Description>**Состояние идеальное, как новый. Лаконичный классический дизайн, имитация белого мрамора. Только портал (обрамление) без очага. Идеально для классических очагов Fobos/Majestic или как декоративный фальш-камин для фотосессий.**
-
-Портал Firelight Simple Classic белый мрамор - это простое и стильное решение для современного интерьера. Прямые линии портала и безупречный белый цвет подчёркивают яркость и красоту пламени очага. А благодаря своим компактным размерам он отлично впишется в любое пространство.</Description>
-  <Id>292920</Id>
-  <available>true</available>
-  <Id>292920</Id>
-  <WeightForDelivery>35.0</WeightForDelivery>
-  <Address>г. Москва, м. Сокольники, Леснорядский переулок, 18с6</Address>
-  <Condition>Новое</Condition>
-  <AdType>Товар приобретен на продажу</AdType>
-  <ManagerName>OOO "Миркли"</ManagerName>
-  <ContactPhone>8 (800) 350-05-31</ContactPhone>
-  <Images>
-   <Image url="https://s3.mircli.ru/media/1131528/Firelight_Simple_Classic_belyj_mramor_ucenennyj.png" />
-   <Image url="https://s3.mircli.ru/media/1131537/Firelight_Simple_Classic_belyj_mramor_ucenennyj(1).png" />
-   <Image url="https://s3.mircli.ru/media/1131551/Firelight_Simple_Classic_belyj_mramor_ucenennyj(2).png" />
-  </Images>
-  <Category>Ремонт и строительство</Category>
-  <GoodsType>Камины и обогреватели</GoodsType>
-  <GoodsSubType>Другое</GoodsSubType>
- </Ad>
- <Ad>
   <Title>Уцененный очаг электрокамина Royal Flame Cardinal под очаг Dioramic 25 LED FX White Oak уцененный</Title>
   <Title>Уцененный очаг электрокамина Cardinal под очаг Dioramic 25 LED FX White Oak уцененный</Title>
   <Price>9990</Price>
@@ -8191,41 +8165,6 @@ Iseo 350 – среднемощная линейка в семействе це�
   <Material>Алюминий</Material>
   <RadiatorSectionsCount>10</RadiatorSectionsCount>
   <PriceFor>Штуку</PriceFor>
- </Ad>
- <Ad>
-  <Title>Настенный кондиционер Ecoclima Green line ECW-18GC/EC-18GC уценённый</Title>
-  <Title>Настенный кондиционер Green line ECW-18GC/EC-18GC уценённый</Title>
-  <Price>32990</Price>
-  <Vendor>Ecoclima</Vendor>
-  <Description>**Euroclima (Евроклима) Green line ECW-18GC/EC-18GC** является производительной сплит-системой, рассчитанной на охлаждение и обогрев помещения. Агрегат работает практически бесшумно, с высокой точностью поддерживает выбранную температуру и функционирует стабильно. Применение производителем современных технологий обеспечило низкий уровень энергопотребления.
-
-Особенности и преимущества:
-
-- Покрытие «Gold Fin». Лучше отвод конденсата с поверхности теплообменника, повышенная коррозийная стойкость и производительность
-- Режим «Eco». Энергосберегающий режим
-- Самоочистка внутреннего блока. Чистый и здоровый воздух в помещении
-- Режим сна. В ночном режиме кондиционер автоматически поддерживает наиболее комфортную температуру для здорового сна и экономит электроэнергию
- 
-Модели серии Green line On-off адаптированы под российские условия эксплуатации и предназначены для установки в помещениях различного назначения. В конструкции приборов реализованы все необходимые энергосберегающие технологии. Устройства функционируют с низкими показателями и отличаются высокой степенью надежности.</Description>
-  <Id>215700</Id>
-  <available>true</available>
-  <Id>298145</Id>
-  <WeightForDelivery>43.0</WeightForDelivery>
-  <Address>г. Москва, м. Сокольники, Леснорядский переулок, 18с6</Address>
-  <Condition>Новое</Condition>
-  <AdType>Товар приобретен на продажу</AdType>
-  <ManagerName>OOO "Миркли"</ManagerName>
-  <ContactPhone>8 (800) 350-05-31</ContactPhone>
-  <Images>
-   <Image url="https://s3.mircli.ru/media/1170676/Ecoclima_ECW_18GCEC_18GC.png" />
-   <Image url="https://s3.mircli.ru/media/1170682/ecoclima-green-line-ecw-18gcec-18gc-ucenennyi_1" />
-  </Images>
-  <Category>Бытовая техника</Category>
-  <GoodsType>Климатическое оборудование</GoodsType>
-  <ProductType>Кондиционеры и запчасти</ProductType>
-  <GoodsSubType>Кондиционеры</GoodsSubType>
-  <AirConditionerType>Сплит-система</AirConditionerType>
-  <AirConditionerSubType>Настенный</AirConditionerSubType>
  </Ad>
  <Ad>
   <Title>Настенный кондиционер Ecoclima Green line ECW-24GC/EC-24GC уценённый</Title>
