@@ -47,7 +47,6 @@
   <Id>281464</Id>
   <Title>Уцененный вибрационный насос Беламос БВ028, 25м уцененный</Title>
   <Price>1990</Price>
-  <Vendor>Беламос</Vendor>
   <Description>**Новый. Упакован. Потертости и царапины на корпусе.**
 
 Передовая модель погружного насоса с нижним забором воды **Беламос БВ028 25** изготовлена из высокопрочных материалов и отличается высокой прочностью внешнего корпуса, который защищает механизм насоса от нежелательных воздействий и продлевает срок его эксплуатации. Данное устройство осуществляет выкачку воды из шахт, колодцев, водоемов и скважин и служит для организации систем водоснабжения.  
@@ -77,6 +76,7 @@
    <Image url="https://s3.mircli.ru/media/1011722/belamos_bv028_25m_ucenennyj(1).jpeg" />
    <Image url="https://s3.mircli.ru/media/1011725/belamos_bv028_25m_ucenennyj(2).jpeg" />
   </Images>
+  <Brand>Беламос</Brand>
   <Category>Ремонт и строительство</Category>
   <GoodsType>Сантехника, водоснабжение и сауна</GoodsType>
   <GoodsSubType>Водоснабжение и канализация</GoodsSubType>
@@ -100,8 +100,7 @@
   </Images>
   <Category>Ремонт и строительство</Category>
   <GoodsType>Камины и обогреватели</GoodsType>
-  <GoodsSubType>Отопительные системы</GoodsSubType>
-  <HeatingType>Другое</HeatingType>
+  <GoodsSubType>Комплектующие и аксессуары</GoodsSubType>
  </Ad>
  <Ad>
   <Id>286796</Id>
@@ -154,7 +153,7 @@
   </Images>
   <Category>Бытовая техника</Category>
   <GoodsType>Климатическое оборудование</GoodsType>
-  <ProductType>Вентиляция</ProductType>
+  <ProductType>Вентиляционное оборудование</ProductType>
  </Ad>
  <Ad>
   <Id>288875</Id>
@@ -236,7 +235,7 @@
   </Images>
   <Category>Бытовая техника</Category>
   <GoodsType>Климатическое оборудование</GoodsType>
-  <ProductType>Вентиляция</ProductType>
+  <ProductType>Вентиляционное оборудование</ProductType>
  </Ad>
  <Ad>
   <Id>293356</Id>
@@ -262,7 +261,7 @@
   </Images>
   <Category>Бытовая техника</Category>
   <GoodsType>Климатическое оборудование</GoodsType>
-  <ProductType>Вентиляция</ProductType>
+  <ProductType>Вентиляционное оборудование</ProductType>
  </Ad>
  <Ad>
   <Id>293674</Id>
@@ -297,8 +296,7 @@
   </Images>
   <Category>Ремонт и строительство</Category>
   <GoodsType>Камины и обогреватели</GoodsType>
-  <GoodsSubType>Отопительные системы</GoodsSubType>
-  <HeatingType>Другое</HeatingType>
+  <GoodsSubType>Комплектующие и аксессуары</GoodsSubType>
  </Ad>
  <Ad>
   <Id>293888</Id>
@@ -331,8 +329,8 @@
    <Image url="https://s3.mircli.ru/media/1138780/bvitech-bv-412rmk-ucenennye_3" />
   </Images>
   <Category>Бытовая техника</Category>
-  <GoodsType>Для дома</GoodsType>
-  <ProductType>Другое</ProductType>
+  <GoodsType>Климатическое оборудование</GoodsType>
+  <ProductType>Термометры и метеостанции</ProductType>
  </Ad>
  <Ad>
   <Id>296103</Id>
@@ -448,7 +446,7 @@ Tylo DGL – серия надежных и современных дверей 
   </Images>
   <Category>Ремонт и строительство</Category>
   <GoodsType>Сантехника, водоснабжение и сауна</GoodsType>
-  <GoodsSubType>Сауна и баня</GoodsSubType>
+  <GoodsSubType>Товары для бани и сауны, бассейны</GoodsSubType>
  </Ad>
  <Ad>
   <Id>298151</Id>
@@ -485,13 +483,12 @@ Tylo DGL – серия надежных и современных дверей 
   <Category>Бытовая техника</Category>
   <GoodsType>Климатическое оборудование</GoodsType>
   <ProductType>Обогреватели</ProductType>
-  <GoodsSubType>Газовые обогреватели</GoodsSubType>
+  <GoodsSubType>Прочее отопительное оборудование</GoodsSubType>
  </Ad>
  <Ad>
   <Id>298159</Id>
   <Title>Канализационная установка Vodotok НК-400А уценённый</Title>
   <Price>9990</Price>
-  <Vendor>Vodotok</Vendor>
   <Description>Канализационный насос **Vodotok (Водоток) НК-400А** рассчитан на работу со сточными водами, содержащими туалетную бумагу, фрагменты пищевых отходов и прочее. Устройство оборудовано специальным измельчающим ножом, который сделан из высокопрочной нержавеющей стали марки AISI AISI 304. Изделие имеет небольшие размеры, поэтому ему легко найти место в маленьком пространстве.
 
 Особенности и преимущества:
@@ -516,6 +513,7 @@ Tylo DGL – серия надежных и современных дверей 
    <Image url="https://s3.mircli.ru/media/1170849/vodotok-nk-400a-ucenennyi_3" />
    <Image url="https://s3.mircli.ru/media/1170850/vodotok-nk-400a-ucenennyi_4" />
   </Images>
+  <Brand>Vodotok</Brand>
   <Category>Ремонт и строительство</Category>
   <GoodsType>Сантехника, водоснабжение и сауна</GoodsType>
   <GoodsSubType>Водоснабжение и канализация</GoodsSubType>
@@ -543,7 +541,7 @@ Tylo DGL – серия надежных и современных дверей 
   </Images>
   <Category>Бытовая техника</Category>
   <GoodsType>Климатическое оборудование</GoodsType>
-  <ProductType>Вентиляция</ProductType>
+  <ProductType>Вентиляционное оборудование</ProductType>
  </Ad>
  <Ad>
   <Id>298173</Id>
@@ -588,14 +586,12 @@ Tylo DGL – серия надежных и современных дверей 
   </Images>
   <Category>Ремонт и строительство</Category>
   <GoodsType>Камины и обогреватели</GoodsType>
-  <GoodsSubType>Отопительные системы</GoodsSubType>
-  <HeatingType>Другое</HeatingType>
+  <GoodsSubType>Комплектующие и аксессуары</GoodsSubType>
  </Ad>
  <Ad>
   <Id>298174</Id>
   <Title>Циркуляционный насос Wilo Star-Z 25/2-DM уценённый</Title>
   <Price>12990</Price>
-  <Vendor>Wilo</Vendor>
   <Description>Оптимальным применением циркуляционных насосов **Wilo (Вило)** модели **Star-Z 25/2-DM** являются обеспечение эффективной, надежной и долговечной работы систем ГВС. Насосы обладают высокими напорными характеристиками. Бесшумны в работе. Удобны в монтаже и просты в использовании. Модель **Star-Z 25/2-DM** оснащена мотором трехфазного тока. Данная модель имеет двусторонний подвод кабеля.
 
 Основные преимущества циркуляционного насоса для систем ГВС от немецкого бренда WILO:
@@ -630,6 +626,7 @@ Tylo DGL – серия надежных и современных дверей 
    <Image url="https://s3.mircli.ru/media/1171043/wilo-star-z-252-dm-ucenennyi_5" />
    <Image url="https://s3.mircli.ru/media/1171044/wilo-star-z-252-dm-ucenennyi_6" />
   </Images>
+  <Brand>Wilo</Brand>
   <Category>Ремонт и строительство</Category>
   <GoodsType>Сантехника, водоснабжение и сауна</GoodsType>
   <GoodsSubType>Водоснабжение и канализация</GoodsSubType>
@@ -665,8 +662,8 @@ Tylo DGL – серия надежных и современных дверей 
    <Image url="https://s3.mircli.ru/media/1174771/smich-bm-75_2" />
   </Images>
   <Category>Бытовая техника</Category>
-  <GoodsType>Для дома</GoodsType>
-  <ProductType>Другое</ProductType>
+  <GoodsType>Климатическое оборудование</GoodsType>
+  <ProductType>Термометры и метеостанции</ProductType>
  </Ad>
  <Ad>
   <Id>298591</Id>
@@ -708,13 +705,12 @@ Tylo DGL – серия надежных и современных дверей 
   </Images>
   <Category>Ремонт и строительство</Category>
   <GoodsType>Сантехника, водоснабжение и сауна</GoodsType>
-  <GoodsSubType>Сауна и баня</GoodsSubType>
+  <GoodsSubType>Товары для бани и сауны, бассейны</GoodsSubType>
  </Ad>
  <Ad>
   <Id>298593</Id>
   <Title>Погружной насос Vodotok БЦПЭ-ГВ-75-0.5-63м-Ч уценённый</Title>
   <Price>9990</Price>
-  <Vendor>Vodotok</Vendor>
   <Description>**Обращаем внимание!**
 
 **В настоящее время завод находится в процессе планового перехода. Это означает, что в ближайших поставках Вы можете получить как насосы с новыми компонентами (выходной патрубок из запатентованного алюминиевого сплава), так и насосы с предыдущей чугунной комплектацией.**
@@ -748,6 +744,7 @@ Tylo DGL – серия надежных и современных дверей 
    <Image url="https://s3.mircli.ru/media/1175677/vodotok-bcpe-gv-75-05-63m-c-ucenennyi_3" />
    <Image url="https://s3.mircli.ru/media/1175678/vodotok-bcpe-gv-75-05-63m-c-ucenennyi_4" />
   </Images>
+  <Brand>Vodotok</Brand>
   <Category>Ремонт и строительство</Category>
   <GoodsType>Сантехника, водоснабжение и сауна</GoodsType>
   <GoodsSubType>Водоснабжение и канализация</GoodsSubType>
@@ -819,13 +816,12 @@ Tylo DGL – серия надежных и современных дверей 
   </Images>
   <Category>Ремонт и строительство</Category>
   <GoodsType>Сантехника, водоснабжение и сауна</GoodsType>
-  <GoodsSubType>Сауна и баня</GoodsSubType>
+  <GoodsSubType>Товары для бани и сауны, бассейны</GoodsSubType>
  </Ad>
  <Ad>
   <Id>298780</Id>
   <Title>Дренажный насос Ливгидромаш Мини Гном 7-7Д 220В уценённый</Title>
   <Price>11990</Price>
-  <Vendor>Ливгидромаш</Vendor>
   <Description>Дренажный бытовой насос **Мини Гном 7-7Д 220В** Ливгидромаш предназначен для оперативной откачки чистой и загрязнённой воды из плавательных бассейнов, строительных котлованов, судов. Имеет поплавковый выключатель и удобную надежную ручку для переноски!
 
 Особенности и преимущества:
@@ -856,6 +852,7 @@ Tylo DGL – серия надежных и современных дверей 
    <Image url="https://s3.mircli.ru/media/1178217/livgidromash-mini-gnom-7-7d-220v_3" />
    <Image url="https://s3.mircli.ru/media/1178218/livgidromash-mini-gnom-7-7d-220v-ucenennyi_4" />
   </Images>
+  <Brand>Ливгидромаш</Brand>
   <Category>Ремонт и строительство</Category>
   <GoodsType>Сантехника, водоснабжение и сауна</GoodsType>
   <GoodsSubType>Водоснабжение и канализация</GoodsSubType>
@@ -897,8 +894,7 @@ Tylo DGL – серия надежных и современных дверей 
   </Images>
   <Category>Ремонт и строительство</Category>
   <GoodsType>Камины и обогреватели</GoodsType>
-  <GoodsSubType>Отопительные системы</GoodsSubType>
-  <HeatingType>Другое</HeatingType>
+  <GoodsSubType>Комплектующие и аксессуары</GoodsSubType>
  </Ad>
  <Ad>
   <Id>299300</Id>
@@ -942,7 +938,7 @@ Tylo DGL – серия надежных и современных дверей 
   </Images>
   <Category>Ремонт и строительство</Category>
   <GoodsType>Сантехника, водоснабжение и сауна</GoodsType>
-  <GoodsSubType>Сауна и баня</GoodsSubType>
+  <GoodsSubType>Товары для бани и сауны, бассейны</GoodsSubType>
  </Ad>
  <Ad>
   <Id>301238</Id>
@@ -1010,7 +1006,7 @@ Tylo DGL – серия надежных и современных дверей 
   </Images>
   <Category>Бытовая техника</Category>
   <GoodsType>Климатическое оборудование</GoodsType>
-  <ProductType>Вентиляция</ProductType>
+  <ProductType>Вентиляционное оборудование</ProductType>
  </Ad>
  <Ad>
   <Id>301684</Id>
@@ -1050,7 +1046,6 @@ Tylo DGL – серия надежных и современных дверей 
   </Images>
   <Category>Ремонт и строительство</Category>
   <GoodsType>Камины и обогреватели</GoodsType>
-  <GoodsSubType>Отопительные системы</GoodsSubType>
-  <HeatingType>Другое</HeatingType>
+  <GoodsSubType>Комплектующие и аксессуары</GoodsSubType>
  </Ad>
 </Ads>
