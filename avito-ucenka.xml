@@ -309,7 +309,6 @@
   <Images>
    <Image url="https://s3.mircli.ru/media/1163049/royal-clima-royal-fresh-rci-rf30hn-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1163050/royal-clima-royal-fresh-rci-rf30hn-ucenennyi_2" />
-   <Image url="https://s3.mircli.ru/media/1163040/royal-clima-royal-fresh-rci-rf30hn_1" />
   </Images>
   <Category>Бытовая техника</Category>
   <GoodsType>Климатическое оборудование</GoodsType>
@@ -361,6 +360,7 @@
   <HeatingSubType>Радиаторы</HeatingSubType>
   <RadiatorType>Трубчатый</RadiatorType>
   <Material>Сталь</Material>
+  <SectionQuantity>4</SectionQuantity>
   <PriceFor>Штуку</PriceFor>
  </Ad>
  <Ad>
@@ -376,7 +376,6 @@
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/514114/Midea_MSE_FMin_09NRI_N1.jpg" />
    <Image url="https://s3.mircli.ru/media/1159161/midea-mse-fmin-09nri-n1-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1159162/midea-mse-fmin-09nri-n1-ucenennyi_2" />
   </Images>
@@ -914,11 +913,6 @@ Tesy BELLISLIMO CLOUD - серия накопительных водогрейн
    <Image url="https://s3.mircli.ru/media/1178854/tesy-gcr-8027-22-e31-ecw-ucenennyi_6" />
    <Image url="https://s3.mircli.ru/media/1178855/tesy-gcr-8027-22-e31-ecw-ucenennyi_7" />
    <Image url="https://s3.mircli.ru/media/1178856/tesy-gcr-8027-22-e31-ecw-ucenennyi_8" />
-   <Image url="https://s3.mircli.ru/media/1178847/Tesy_GCR_8027_22_E31_ECW.png" />
-   <Image url="https://s3.mircli.ru/media/1178849/tesy-gcr-8027-22-e31-ecw_1" />
-   <Image url="https://s3.mircli.ru/media/1178850/tesy-gcr-8027-22-e31-ecw_2" />
-   <Image url="https://s3.mircli.ru/media/1178851/tesy-gcr-8027-22-e31-ecw_3" />
-   <Image url="https://s3.mircli.ru/media/1178852/tesy-gcr-8027-22-e31-ecw_4" />
   </Images>
   <Category>Бытовая техника</Category>
   <GoodsType>Климатическое оборудование</GoodsType>
@@ -1496,7 +1490,7 @@ Tesy BELLISLIMO CLOUD - серия накопительных водогрейн
   <HeatingSubType>Радиаторы</HeatingSubType>
   <RadiatorType>Секционный</RadiatorType>
   <Material>Биметалл</Material>
-  <RadiatorSectionsCount>11</RadiatorSectionsCount>
+  <SectionQuantity>11</SectionQuantity>
   <PriceFor>Штуку</PriceFor>
  </Ad>
  <Ad>
@@ -1540,8 +1534,9 @@ Tesy BELLISLIMO CLOUD - серия накопительных водогрейн
    <Image url="https://s3.mircli.ru/media/1099575/Electrolux_EAFA_120T_ucenennyj(18).jpg" />
   </Images>
   <Category>Бытовая техника</Category>
-  <GoodsType>Для кухни</GoodsType>
-  <ProductType>Вытяжки и аксессуары</ProductType>
+  <GoodsType>Климатическое оборудование</GoodsType>
+  <ProductType>Вентиляционное оборудование</ProductType>
+  <GoodsSubType>Вентиляторы</GoodsSubType>
  </Ad>
  <Ad>
   <Id>289624</Id>
@@ -2367,7 +2362,6 @@ Firelight (Файерлайт) Torre 25S Слоновая кость/Венге 
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1132127/Real_Flame_Govard_FS33W_LN.png" />
    <Image url="https://s3.mircli.ru/media/1132153/Real_Flame_Govard_FS33W_LN_ucenennyj(3).png" />
    <Image url="https://s3.mircli.ru/media/1132173/Real_Flame_Govard_FS33W_LN_ucenennyj(4).png" />
    <Image url="https://s3.mircli.ru/media/1132195/Real_Flame_Govard_FS33W_LN_ucenennyj.png" />
@@ -2753,7 +2747,6 @@ Firelight (Файерлайт) Torre 25S Слоновая кость/Венге 
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1136930/Parpol_T_750.jpg" />
    <Image url="https://s3.mircli.ru/media/1158911/parpol-t-750-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1158917/parpol-t-750-ucenennyi_3" />
    <Image url="https://s3.mircli.ru/media/1158918/parpol-t-750-ucenennyi_4" />
@@ -2796,7 +2789,6 @@ Firelight (Файерлайт) Torre 25S Слоновая кость/Венге 
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <CompleteEquipment />
   <Images>
-   <Image url="https://s3.mircli.ru/media/1137686/Daikin_FWB10BTN.jpg" />
    <Image url="https://s3.mircli.ru/media/1137691/daikin-fwb10batv6v3-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1137690/daikin-fwb10batv6v3-ucenennyi_1" />
   </Images>
@@ -2888,7 +2880,6 @@ Firelight (Файерлайт) Torre 25S Слоновая кость/Венге 
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1138114/Toshiba_RAS_07TKVG_EE_RAS_07TAVG_EE.jpg" />
    <Image url="https://s3.mircli.ru/media/1138120/toshiba-ras-07tkvg-ee-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1138121/toshiba-ras-07tkvg-ee-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1138122/toshiba-ras-07tkvg-ee-ucenennyi_3" />
@@ -2935,7 +2926,6 @@ Firelight (Файерлайт) Torre 25S Слоновая кость/Венге 
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1138123/Toshiba_RAS_18U2KH3S_EERAS_18U2AH3S_EE.jpg" />
    <Image url="https://s3.mircli.ru/media/1138129/toshiba-ras-18u2kh3s-ee-ucenennyi_3" />
    <Image url="https://s3.mircli.ru/media/1138130/toshiba-ras-18u2kh3s-ee-ucenennyi_4" />
    <Image url="https://s3.mircli.ru/media/1138127/toshiba-ras-18u2kh3s-ee-ucenennyi_1" />
@@ -2981,7 +2971,6 @@ Firelight (Файерлайт) Torre 25S Слоновая кость/Венге 
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1138136/Toshiba_RAS_10BKV_EE1RAS_10BAV_EE1_2018.jpg" />
    <Image url="https://s3.mircli.ru/media/1138141/toshiba-ras-10bkv-ee-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1138142/toshiba-ras-10bkv-ee-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1138143/toshiba-ras-10bkv-ee-ucenennyi_3" />
@@ -3026,7 +3015,6 @@ Firelight (Файерлайт) Torre 25S Слоновая кость/Венге 
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1138448/Funai_RAC_DA20HP.D01.png" />
    <Image url="https://s3.mircli.ru/media/1138468/funai-rac-da20mud01s-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1138469/funai-rac-da20mud01s-ucenennyi_2" />
   </Images>
@@ -3061,7 +3049,6 @@ Firelight (Файерлайт) Torre 25S Слоновая кость/Венге 
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <CompleteEquipment />
   <Images>
-   <Image url="https://s3.mircli.ru/media/1138745/BVItech_BV_412RMK.png" />
    <Image url="https://s3.mircli.ru/media/1138781/bvitech-bv-412rmk-ucenennye_4" />
    <Image url="https://s3.mircli.ru/media/1138778/bvitech-bv-412rmk-ucenennye_2" />
    <Image url="https://s3.mircli.ru/media/1138777/bvitech-bv-412rmk-ucenennye_1" />
@@ -3107,7 +3094,6 @@ Firelight (Файерлайт) Torre 25S Слоновая кость/Венге 
    <Image url="https://s3.mircli.ru/media/1140955/firelight-simple-25-belyi-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1140961/firelight-simple-25-belyi-ucenennyi_7" />
    <Image url="https://s3.mircli.ru/media/1140962/firelight-simple-25-belyi-ucenennyi_8" />
-   <Image url="https://s3.mircli.ru/media/1140950/Firelight_Simple_25_belyj.png" />
   </Images>
   <Category>Ремонт и строительство</Category>
   <GoodsType>Камины и обогреватели</GoodsType>
@@ -3148,7 +3134,6 @@ Firelight (Файерлайт) Torre 25S Слоновая кость/Венге 
    <Image url="https://s3.mircli.ru/media/1140999/firelight-simple-25-belyi-ucenennyi-17005_5" />
    <Image url="https://s3.mircli.ru/media/1140997/firelight-simple-25-belyi-ucenennyi-17005_3" />
    <Image url="https://s3.mircli.ru/media/1140998/firelight-simple-25-belyi-ucenennyi-17005_4" />
-   <Image url="https://s3.mircli.ru/media/1140989/Firelight_Simple_25_belyj.png" />
   </Images>
   <Category>Ремонт и строительство</Category>
   <GoodsType>Камины и обогреватели</GoodsType>
@@ -3169,7 +3154,6 @@ Firelight (Файерлайт) Torre 25S Слоновая кость/Венге 
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1141044/Elekam_Baltimor_grafit_grej_s_chernym_s_ochagom_Spark(1).jpg" />
    <Image url="https://s3.mircli.ru/media/1141051/elekam-baltimor-grafit-grei-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1141056/elekam-baltimor-grafit-grei-ucenennyi_6" />
    <Image url="https://s3.mircli.ru/media/1141053/elekam-baltimor-grafit-grei-ucenennyi_3" />
@@ -3207,7 +3191,6 @@ Firelight (Файерлайт) Torre 25S Слоновая кость/Венге 
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1141893/Real_Flame_COUNTRY_FS25.jpg" />
    <Image url="https://s3.mircli.ru/media/1141897/real-flame-country-25255-ao-215-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1141901/real-flame-country-25255-ao-215-ucenennyi_5" />
    <Image url="https://s3.mircli.ru/media/1141899/real-flame-country-25255-ao-215-ucenennyi_3" />
@@ -3247,7 +3230,6 @@ Firelight (Файерлайт) Torre 25S Слоновая кость/Венге 
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1141906/Electrolux_Bricks_Classic_kirpich_bezhevyjshpon_temnyj_dub.jpg" />
    <Image url="https://s3.mircli.ru/media/1141911/firelight-bricks-classic-kirpic-bezevyispon-temnyi-dub-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1141913/firelight-bricks-classic-kirpic-bezevyispon-temnyi-dub-ucenennyi_4" />
    <Image url="https://s3.mircli.ru/media/1141914/firelight-bricks-classic-kirpic-bezevyispon-temnyi-dub-ucenennyi_5" />
@@ -3294,7 +3276,6 @@ Firelight (Файерлайт) Torre 25S Слоновая кость/Венге 
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1144612/Metalac_oPTIMA_EZV_50_R_kn(1).jpg" />
    <Image url="https://s3.mircli.ru/media/1144613/metalac-optima-ezv-50-r-kn-ucenennyi-5505_1" />
    <Image url="https://s3.mircli.ru/media/1144614/metalac-optima-ezv-50-r-kn-ucenennyi-5505_2" />
    <Image url="https://s3.mircli.ru/media/1144615/metalac-optima-ezv-50-r-kn-ucenennyi-5505_3" />
@@ -3349,7 +3330,6 @@ Firelight (Файерлайт) Torre 25S Слоновая кость/Венге 
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1144694/Stiebel_Eltron_PSH_50_Universal_EL.jpg" />
    <Image url="https://s3.mircli.ru/media/1144698/stiebel-eltron-psh-50-universal-el-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1144699/stiebel-eltron-psh-50-universal-el-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1144700/stiebel-eltron-psh-50-universal-el-ucenennyi_3" />
@@ -3359,6 +3339,7 @@ Firelight (Файерлайт) Torre 25S Слоновая кость/Венге 
    <Image url="https://s3.mircli.ru/media/1144704/stiebel-eltron-psh-50-universal-el-ucenennyi_7" />
    <Image url="https://s3.mircli.ru/media/1144705/stiebel-eltron-psh-50-universal-el-ucenennyi_8" />
    <Image url="https://s3.mircli.ru/media/1144706/stiebel-eltron-psh-50-universal-el-ucenennyi_9" />
+   <Image url="https://s3.mircli.ru/media/1144707/stiebel-eltron-psh-50-universal-el-ucenennyi_10" />
   </Images>
   <Category>Бытовая техника</Category>
   <GoodsType>Климатическое оборудование</GoodsType>
@@ -3397,7 +3378,6 @@ Firelight (Файерлайт) Torre 25S Слоновая кость/Венге 
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1145060/Ariston_VELIS_TECH_ABSE_DRY_50.jpg" />
    <Image url="https://s3.mircli.ru/media/1145082/ariston-velis-tech-abse-dry-50-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1145083/ariston-velis-tech-abse-dry-50-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1145084/ariston-velis-tech-abse-dry-50-ucenennyi_3" />
@@ -3441,7 +3421,6 @@ Firelight (Файерлайт) Torre 25S Слоновая кость/Венге 
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1148083/teplomash_kev_12p3012e.jpg" />
    <Image url="https://s3.mircli.ru/media/1148105/teplomash-kev-12p3012e-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1148106/teplomash-kev-12p3012e-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1148107/teplomash-kev-12p3012e-ucenennyi_3" />
@@ -3485,7 +3464,6 @@ Firelight (Файерлайт) Torre 25S Слоновая кость/Венге 
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1150185/Royal_Clima_RWH_TR50_SS.jpg" />
    <Image url="https://s3.mircli.ru/media/1150197/royal-clima-rwh-tr50-ss-ucenennyi_7" />
    <Image url="https://s3.mircli.ru/media/1150194/royal-clima-rwh-tr50-ss-ucenennyi_4" />
    <Image url="https://s3.mircli.ru/media/1150191/royal-clima-rwh-tr50-ss-ucenennyi_1" />
@@ -3526,7 +3504,6 @@ Firelight (Файерлайт) Torre 25S Слоновая кость/Венге 
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1150226/Electrolux_Torre_30S_pod_ochag_EFPP__3020LS.jpg" />
    <Image url="https://s3.mircli.ru/media/1150240/firelight-torre-30s-slonovaia-kosttemnyi-dub-ucenennyi_4" />
    <Image url="https://s3.mircli.ru/media/1150239/firelight-torre-30s-slonovaia-kosttemnyi-dub-ucenennyi_3" />
    <Image url="https://s3.mircli.ru/media/1150237/firelight-torre-30s-slonovaia-kosttemnyi-dub-ucenennyi_1" />
@@ -3667,7 +3644,6 @@ Firelight (Файерлайт) Torre 25S Слоновая кость/Венге 
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <CompleteEquipment />
   <Images>
-   <Image url="https://s3.mircli.ru/media/1152833/teplomash_kev_p4011A.png" />
    <Image url="https://s3.mircli.ru/media/1152837/teplomash-kev-p4111a-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1152838/teplomash-kev-p4111a-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1152839/teplomash-kev-p4111a-ucenennyi_3" />
@@ -3748,7 +3724,6 @@ Firelight (Файерлайт) Torre 25S Слоновая кость/Венге 
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1153724/Thermex_Nova_50_V.jpg" />
    <Image url="https://s3.mircli.ru/media/1153734/thermex-nova-50-v-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1153735/thermex-nova-50-v-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1153736/thermex-nova-50-v-ucenennyi_3" />
@@ -3785,7 +3760,6 @@ Firelight (Файерлайт) Torre 25S Слоновая кость/Венге 
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1153762/Kratki_DELTAL700_uglovoj.jpg" />
    <Image url="https://s3.mircli.ru/media/1153769/kratki-deltal700-uglovaia-tuv-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1153770/kratki-deltal700-uglovaia-tuv-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1153771/kratki-deltal700-uglovaia-tuv-ucenennyi_3" />
@@ -3826,7 +3800,6 @@ Firelight (Файерлайт) Torre 25S Слоновая кость/Венге 
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1154145/Kalashnikov_KVC_C20E12_31_izmenennaya_komplektaciya.jpg" />
    <Image url="https://s3.mircli.ru/media/1154148/kalashnikov-kvc-c20e12-31-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1154149/kalashnikov-kvc-c20e12-31-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1154150/kalashnikov-kvc-c20e12-31-ucenennyi_3" />
@@ -3872,7 +3845,6 @@ Firelight (Файерлайт) Torre 25S Слоновая кость/Венге 
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1154517/Axioma_ASX09H1ASB09H1(1).jpg" />
    <Image url="https://s3.mircli.ru/media/1155717/axioma-seriia-h-asx09h1asb09h1-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1155718/axioma-seriia-h-asx09h1asb09h1-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1155719/axioma-seriia-h-asx09h1asb09h1-ucenennyi_3" />
@@ -3911,7 +3883,6 @@ Firelight (Файерлайт) Torre 25S Слоновая кость/Венге 
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1154701/TERMA_420W02H_Classic.png" />
    <Image url="https://s3.mircli.ru/media/1154703/terma-420w02h-classic-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1154704/terma-420w02h-classic-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1154705/terma-420w02h-classic-ucenennyi_3" />
@@ -3921,6 +3892,7 @@ Firelight (Файерлайт) Torre 25S Слоновая кость/Венге 
    <Image url="https://s3.mircli.ru/media/1154709/terma-420w02h-classic-ucenennyi_7" />
    <Image url="https://s3.mircli.ru/media/1154710/terma-420w02h-classic-ucenennyi_8" />
    <Image url="https://s3.mircli.ru/media/1154711/terma-420w02h-classic-ucenennyi_9" />
+   <Image url="https://s3.mircli.ru/media/1154713/terma-420w02h-classic-ucenennyi_10" />
   </Images>
   <Category>Бытовая техника</Category>
   <GoodsType>Климатическое оборудование</GoodsType>
@@ -3961,7 +3933,6 @@ Firelight (Файерлайт) Torre 25S Слоновая кость/Венге 
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1154760/Ariston_ABS_ANDRIS_LUX_15_UR.jpg" />
    <Image url="https://s3.mircli.ru/media/1154766/ariston-abs-andris-lux-15-ur-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1154767/ariston-abs-andris-lux-15-ur-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1154768/ariston-abs-andris-lux-15-ur-ucenennyi_3" />
@@ -4002,7 +3973,6 @@ Firelight (Файерлайт) Torre 25S Слоновая кость/Венге 
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1154807/MEYVEL_MV22_KBB1.jpg" />
    <Image url="https://s3.mircli.ru/media/1154819/meyvel-mv22-kbb1-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1154820/meyvel-mv22-kbb1-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1154821/meyvel-mv22-kbb1-ucenennyi_3" />
@@ -4091,7 +4061,6 @@ Firelight (Файерлайт) Torre 25S Слоновая кость/Венге 
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1154842/MEYVEL_MV28_BF1_easy.jpg" />
    <Image url="https://s3.mircli.ru/media/1154850/meyvel-mv28-bf1-easy-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1154851/meyvel-mv28-bf1-easy-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1154852/meyvel-mv28-bf1-easy-ucenennyi_3" />
@@ -4141,7 +4110,6 @@ Firelight (Файерлайт) Torre 25S Слоновая кость/Венге 
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1154987/Ballu_B2OI_FMout_14HN1EU.png" />
    <Image url="https://s3.mircli.ru/media/1154989/ballu-b2oi-fmout-14hn1eu-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1154990/ballu-b2oi-fmout-14hn1eu-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1154992/ballu-b2oi-fmout-14hn1eu-ucenennyi_3" />
@@ -4187,7 +4155,6 @@ Firelight (Файерлайт) Torre 25S Слоновая кость/Венге 
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1155092/Energolux_ECH_1000E_J1_BG.jpg" />
    <Image url="https://s3.mircli.ru/media/1155100/energolux-ech-1000e-j1-bg-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1155101/energolux-ech-1000e-j1-bg-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1155102/energolux-ech-1000e-j1-bg-ucenennyi_3" />
@@ -4225,7 +4192,6 @@ Firelight (Файерлайт) Torre 25S Слоновая кость/Венге 
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1155242/Thermex_Frame_1000E.jpg" />
    <Image url="https://s3.mircli.ru/media/1155251/thermex-frame-1000e-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1155252/thermex-frame-1000e-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1155253/thermex-frame-1000e-ucenennyi_3" />
@@ -4259,7 +4225,6 @@ Firelight (Файерлайт) Torre 25S Слоновая кость/Венге 
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1155557/ishimatsu-akasi-alk-09i_1" />
    <Image url="https://s3.mircli.ru/media/1155578/ishimatsu-akasi-alk-09i-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1155579/ishimatsu-akasi-alk-09i-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1155580/ishimatsu-akasi-alk-09i-ucenennyi_3" />
@@ -4314,7 +4279,6 @@ Firelight (Файерлайт) Torre 25S Слоновая кость/Венге 
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1155635/Haier_AS25HPL2HRA1U25HPL1FRA.jpg" />
    <Image url="https://s3.mircli.ru/media/1155646/haier-coral-as25hpl2hra1u25hpl1fra-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1155647/haier-coral-as25hpl2hra1u25hpl1fra-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1155649/haier-coral-as25hpl2hra1u25hpl1fra-ucenennyi_4" />
@@ -4365,7 +4329,6 @@ Firelight (Файерлайт) Torre 25S Слоновая кость/Венге 
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1155661/Ballu_Multi_smart_BM2OI_FMout_14HN8_V1EU.png" />
    <Image url="https://s3.mircli.ru/media/1155669/ballu-multi-smart-bm2oi-fmout-14hn8-v1eu-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1155670/ballu-multi-smart-bm2oi-fmout-14hn8-v1eu-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1155671/ballu-multi-smart-bm2oi-fmout-14hn8-v1eu-ucenennyi_3" />
@@ -4410,7 +4373,6 @@ Firelight (Файерлайт) Torre 25S Слоновая кость/Венге 
   <Images>
    <Image url="https://s3.mircli.ru/media/1155729/hisense-neo-classic-a-as-09hr4ryddc00-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1155730/hisense-neo-classic-a-as-09hr4ryddc00-ucenennyi_2" />
-   <Image url="https://s3.mircli.ru/media/1155726/Hisense_AS_09HR4RYDDC00.jpg" />
   </Images>
   <Category>Бытовая техника</Category>
   <GoodsType>Климатическое оборудование</GoodsType>
@@ -4450,7 +4412,6 @@ Firelight (Файерлайт) Torre 25S Слоновая кость/Венге 
   <Images>
    <Image url="https://s3.mircli.ru/media/1155735/hisense-neo-classic-a-as-09hr4ryddc00-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1155736/hisense-neo-classic-a-as-09hr4ryddc00-ucenennyi_2" />
-   <Image url="https://s3.mircli.ru/media/1155732/Hisense_AS_09HR4RYDDC00.jpg" />
   </Images>
   <Category>Бытовая техника</Category>
   <GoodsType>Климатическое оборудование</GoodsType>
@@ -4483,7 +4444,6 @@ Firelight (Файерлайт) Torre 25S Слоновая кость/Венге 
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <CompleteEquipment />
   <Images>
-   <Image url="https://s3.mircli.ru/media/1155747/Hisense_AMS_12UW4RVEDB00.png" />
    <Image url="https://s3.mircli.ru/media/1155750/hisense-smart-free-match-ams-12uw4rvedb00-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1155751/hisense-smart-free-match-ams-12uw4rvedb00-ucenennyi_2" />
   </Images>
@@ -4523,7 +4483,6 @@ Premium Design Free Match DC Inverter R32 - серия премиальных н
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <CompleteEquipment />
   <Images>
-   <Image url="https://s3.mircli.ru/media/1155754/Hisense_AMS_12UW4RVETG00S.jpg" />
    <Image url="https://s3.mircli.ru/media/1155757/hisense-premium-design-free-match-ams-12uw4rvetg00s-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1155758/hisense-premium-design-free-match-ams-12uw4rvetg00s-ucenennyi_2" />
   </Images>
@@ -4563,7 +4522,6 @@ Premium Design Free Match DC Inverter R32 - серия премиальных н
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <CompleteEquipment />
   <Images>
-   <Image url="https://s3.mircli.ru/media/1155759/Hisense_AMS_09UW4RVETG00S(3).jpg" />
    <Image url="https://s3.mircli.ru/media/1155762/hisense-premium-design-free-match-ams-09uw4rvetg00s-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1155763/hisense-premium-design-free-match-ams-09uw4rvetg00s-ucenennyi_2" />
   </Images>
@@ -4610,7 +4568,6 @@ Premium Design Free Match DC Inverter R32 - серия премиальных н
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1155768/Hisense_AS_10UR4SVPSC5GWAS_10UR4SVPSC5WW(3).jpg" />
    <Image url="https://s3.mircli.ru/media/1155773/hisense-as-10ur4svpsc5w-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1155772/hisense-as-10ur4svpsc5w-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1155774/hisense-as-10ur4svpsc5w-ucenennyi_3" />
@@ -4653,7 +4610,6 @@ Premium Design Free Match DC Inverter R32 - серия премиальных н
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1155800/nika_lZvp_elektricheskaya_lesenka_zigzagverhnyaya_polka_120h60_5_prav.png" />
    <Image url="https://s3.mircli.ru/media/1155801/nika-lzvp-elektriceskaia-lesenka-zigzagverxniaia-polka-120x60-5-prav-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1155802/nika-lzvp-elektriceskaia-lesenka-zigzagverxniaia-polka-120x60-5-prav-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1155803/nika-lzvp-elektriceskaia-lesenka-zigzagverxniaia-polka-120x60-5-prav-ucenennyi_3" />
@@ -4704,7 +4660,6 @@ Panasonic Deluxe Inverter — это серия настенных систем 
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1155896/Panasonic_CS_E9RKDWCU_E9RKD.jpg" />
    <Image url="https://s3.mircli.ru/media/1155899/panasonic-deluxe-cs-e9rkdwcu-e9rkd-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1155900/panasonic-deluxe-cs-e9rkdwcu-e9rkd-ucenennyi_2" />
   </Images>
@@ -4753,7 +4708,6 @@ Panasonic Deluxe Inverter — это серия настенных систем 
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1155902/Ballu_BSO_07HN8_22Y(1).jpg" />
    <Image url="https://s3.mircli.ru/media/1155907/ballu-olympio-edge-bso-07hn8-22y-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1155908/ballu-olympio-edge-bso-07hn8-22y-ucenennyi_2" />
   </Images>
@@ -4795,7 +4749,6 @@ Panasonic Deluxe Inverter — это серия настенных систем 
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <CompleteEquipment />
   <Images>
-   <Image url="https://s3.mircli.ru/media/1155909/Kentatsu_KSGPA26HZRN1.jpg" />
    <Image url="https://s3.mircli.ru/media/1155914/kentatsu-sempai-ksgpa26hzrn1-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1155915/kentatsu-sempai-ksgpa26hzrn1-ucenennyi_2" />
   </Images>
@@ -4841,7 +4794,6 @@ Panasonic Deluxe Inverter — это серия настенных систем 
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1155916/Kentatsu_KMGE35HZAN1.jpg" />
    <Image url="https://s3.mircli.ru/media/1155917/kentatsu-kmge35hzan1-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1155918/kentatsu-kmge35hzan1-ucenennyi_2" />
   </Images>
@@ -4887,7 +4839,6 @@ Panasonic Deluxe Inverter — это серия настенных систем 
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1155919/Kentatsu_KMGBA50HZAN1.jpg" />
    <Image url="https://s3.mircli.ru/media/1155927/kentatsu-bravo-kmgba50hzan1-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1155928/kentatsu-bravo-kmgba50hzan1-ucenennyi_2" />
   </Images>
@@ -5017,7 +4968,6 @@ Royal Clima серия TRIUMPH Inverter Upgrade – это отличные вн
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1155970/IGC_RAS_09NQR.jpg" />
    <Image url="https://s3.mircli.ru/media/1155990/igc-fresco-s-ras-09nqr-ucenennyi_1" />
   </Images>
   <Category>Бытовая техника</Category>
@@ -5059,7 +5009,6 @@ Royal Clima серия TRIUMPH Inverter Upgrade – это отличные вн
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1155992/Kentatsu_KMGM20HZAN1.jpg" />
    <Image url="https://s3.mircli.ru/media/1155995/kentatsu-kmgm20hzan1-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1155996/kentatsu-kmgm20hzan1-ucenennyi_2" />
   </Images>
@@ -5101,7 +5050,6 @@ Royal Clima серия TRIUMPH Inverter Upgrade – это отличные вн
    <Image url="https://s3.mircli.ru/media/1158261/energolux-big-multi-sas09m3-gi-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1158263/energolux-big-multi-sas09m3-gi-ucenennyi_3" />
    <Image url="https://s3.mircli.ru/media/1158262/energolux-big-multi-sas09m3-gi-ucenennyi_2" />
-   <Image url="https://s3.mircli.ru/media/1156003/Energolux_SAS09M3_GI.jpg" />
   </Images>
   <Category>Бытовая техника</Category>
   <GoodsType>Климатическое оборудование</GoodsType>
@@ -5140,7 +5088,6 @@ Royal Clima серия TRIUMPH Inverter Upgrade – это отличные вн
   <Images>
    <Image url="https://s3.mircli.ru/media/1158424/energolux-big-multi-sas09m3-gi-ucenennyi-105_1" />
    <Image url="https://s3.mircli.ru/media/1158425/energolux-big-multi-sas09m3-gi-ucenennyi-105_2" />
-   <Image url="https://s3.mircli.ru/media/1158421/Energolux_SAS09M3_GI.jpg" />
   </Images>
   <Category>Бытовая техника</Category>
   <GoodsType>Климатическое оборудование</GoodsType>
@@ -5180,7 +5127,6 @@ Royal Clima серия TRIUMPH Inverter Upgrade – это отличные вн
   <Images>
    <Image url="https://s3.mircli.ru/media/1158429/energolux-big-multi-sas09m3-gi-ucenennyi-111_1" />
    <Image url="https://s3.mircli.ru/media/1158430/energolux-big-multi-sas09m3-gi-ucenennyi-111_2" />
-   <Image url="https://s3.mircli.ru/media/1158426/Energolux_SAS09M3_GI.jpg" />
   </Images>
   <Category>Бытовая техника</Category>
   <GoodsType>Климатическое оборудование</GoodsType>
@@ -5226,7 +5172,6 @@ Royal Clima серия TRIUMPH Inverter Upgrade – это отличные вн
   <Images>
    <Image url="https://s3.mircli.ru/media/1157006/hisense-silver-crystal-super-as-10uw4rvetg01s-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1157007/hisense-silver-crystal-super-as-10uw4rvetg01s-ucenennyi_2" />
-   <Image url="https://s3.mircli.ru/media/1157002/Hisense_AS_10UW4RVETG01S.jpg" />
   </Images>
   <Category>Бытовая техника</Category>
   <GoodsType>Климатическое оборудование</GoodsType>
@@ -5272,7 +5217,6 @@ Royal Clima серия TRIUMPH Inverter Upgrade – это отличные вн
   <Images>
    <Image url="https://s3.mircli.ru/media/1157013/hisense-silver-crystal-super-as-10uw4rvetg01s-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1157014/hisense-silver-crystal-super-as-10uw4rvetg01s-ucenennyi_2" />
-   <Image url="https://s3.mircli.ru/media/1157009/Hisense_AS_10UW4RVETG01S.jpg" />
   </Images>
   <Category>Бытовая техника</Category>
   <GoodsType>Климатическое оборудование</GoodsType>
@@ -5321,7 +5265,6 @@ Royal Clima серия TRIUMPH Inverter Upgrade – это отличные вн
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <CompleteEquipment />
   <Images>
-   <Image url="https://s3.mircli.ru/media/1157394/Hisense_AS_10HW4SYDTG5_WI_FI_Ready.jpg" />
    <Image url="https://s3.mircli.ru/media/1157405/hisense-neo-premium-classic-a-as-10hw4sydtg5-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1157406/hisense-neo-premium-classic-a-as-10hw4sydtg5-ucenennyi_2" />
   </Images>
@@ -5362,7 +5305,6 @@ LEADER 2019 On/Off — это линейка современных кондиц
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1157414/Haier_HSU_18HTL103R2.jpg" />
    <Image url="https://s3.mircli.ru/media/1157418/haier-hsu-18htl103r2-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1157419/haier-hsu-18htl103r2-ucenennyi_2" />
   </Images>
@@ -5398,7 +5340,6 @@ LEADER 2019 On/Off — это линейка современных кондиц
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <CompleteEquipment />
   <Images>
-   <Image url="https://s3.mircli.ru/media/1159178/Hitachi_RAI_25NH5A.jpg" />
    <Image url="https://s3.mircli.ru/media/1159181/hitachi-rai-25nh5a-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1159182/hitachi-rai-25nh5a-ucenennyi_2" />
   </Images>
@@ -5438,7 +5379,6 @@ LEADER 2019 On/Off — это линейка современных кондиц
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1159365/Haier_Lightera_AS18NS5ERA_B.jpg" />
    <Image url="https://s3.mircli.ru/media/1159368/haier-lightera-as18ns5era-b-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1159369/haier-lightera-as18ns5era-b-ucenennyi_2" />
   </Images>
@@ -5479,7 +5419,6 @@ LEADER 2019 On/Off — это линейка современных кондиц
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1159387/Kentatsu_KSGR26HFAN1KSRR26HFAN1.jpg" />
    <Image url="https://s3.mircli.ru/media/1159479/kentatsu-ksgr26hfan1ksrr26hfan1-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1159480/kentatsu-ksgr26hfan1ksrr26hfan1-ucenennyi_2" />
   </Images>
@@ -5515,7 +5454,6 @@ LEADER 2019 On/Off — это линейка современных кондиц
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1159398/Toshiba_05J2KVG_EERAS_05J2AVG_EE.jpg" />
    <Image url="https://s3.mircli.ru/media/1159411/toshiba-seiya-ras-05j2kvg-eeras-05j2avg-ee-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1159412/toshiba-seiya-ras-05j2kvg-eeras-05j2avg-ee-ucenennyi_2" />
   </Images>
@@ -5560,7 +5498,6 @@ LEADER 2019 On/Off — это линейка современных кондиц
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1159500/Electrolux_EACS_09HO2N3.jpg" />
    <Image url="https://s3.mircli.ru/media/1159503/electrolux-eacs-09ho2n3-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1159504/electrolux-eacs-09ho2n3-ucenennyi_2" />
   </Images>
@@ -5604,7 +5541,6 @@ LEADER 2019 On/Off — это линейка современных кондиц
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1159594/Kitano_KRD_Viki_II_18.jpg" />
    <Image url="https://s3.mircli.ru/media/1159630/kitano-krd-viki-ii-18-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1159631/kitano-krd-viki-ii-18-ucenennyi_2" />
   </Images>
@@ -5641,7 +5577,6 @@ LEADER 2019 On/Off — это линейка современных кондиц
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1159782/Ballu_BSAG_09HN1_17Y.jpg" />
    <Image url="https://s3.mircli.ru/media/1159785/ballu-bsag-09hn1-17y-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1159786/ballu-bsag-09hn1-17y-ucenennyi_2" />
   </Images>
@@ -5678,7 +5613,6 @@ LEADER 2019 On/Off — это линейка современных кондиц
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1159821/High_Life_ACHL_07CC_I_CHDV02.png" />
    <Image url="https://s3.mircli.ru/media/1159827/high-life-comfort-class-achl-07cc-i-chdv02s-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1159828/high-life-comfort-class-achl-07cc-i-chdv02s-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1159829/high-life-comfort-class-achl-07cc-i-chdv02s-ucenennyi_3" />
@@ -5724,7 +5658,6 @@ LEADER 2019 On/Off — это линейка современных кондиц
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1159832/Dantex_RK_07SPG.jpg" />
    <Image url="https://s3.mircli.ru/media/1159844/dantex-rk-07spg-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1159845/dantex-rk-07spg-ucenennyi_2" />
   </Images>
@@ -5765,7 +5698,6 @@ LEADER 2019 On/Off — это линейка современных кондиц
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1160077/Green_GRIGRO_07_IGK2.jpg" />
    <Image url="https://s3.mircli.ru/media/1160080/green-genesis-gri-07-igk2gro-07igk3-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1160082/green-genesis-gri-07-igk2gro-07igk3-ucenennyi_2" />
   </Images>
@@ -5805,7 +5737,6 @@ Seoul – серия компактных и недорогих неинверт
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1162825/Hyundai_H_AR9_24H.jpg" />
    <Image url="https://s3.mircli.ru/media/1162828/hyundai-h-ar9-24h-ucenennyi_3" />
    <Image url="https://s3.mircli.ru/media/1162829/hyundai-h-ar9-24h-ucenennyi_2" />
   </Images>
@@ -5848,7 +5779,6 @@ Seoul – серия компактных и недорогих неинверт
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1162866/Ballu_BSAG_07HN1_20Y.jpg" />
    <Image url="https://s3.mircli.ru/media/1162909/ballu-bsag-07hn1-20y-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1162910/ballu-bsag-07hn1-20y-ucenennyi_2" />
   </Images>
@@ -5891,7 +5821,6 @@ ECLIPSE INVERTER 2024 – серия современных, производи�
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1162966/ULTIMA_COMFORT_ECS_I09PN.png" />
    <Image url="https://s3.mircli.ru/media/1162971/ultima-eclipse-ecs-i09pn-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1162972/ultima-eclipse-ecs-i09pn-ucenennyi_2" />
   </Images>
@@ -5933,7 +5862,6 @@ ECLIPSE INVERTER 2024 – серия современных, производи�
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1162982/Energolux_SAS09L4_ASAU09L4_A_WS.jpg" />
    <Image url="https://s3.mircli.ru/media/1163000/energolux-sas09l4-asau09l4-a-ws-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1163001/energolux-sas09l4-asau09l4-a-ws-ucenennyi_2" />
   </Images>
@@ -5979,7 +5907,6 @@ ECLIPSE INVERTER 2024 – серия современных, производи�
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1163051/Daikin_FTYN80FXVRQ71CXV.jpg" />
    <Image url="https://s3.mircli.ru/media/1163059/daikin-ftyn80fxvrq71cxv-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1163060/daikin-ftyn80fxvrq71cxv-ucenennyi_2" />
   </Images>
@@ -6018,7 +5945,6 @@ ECLIPSE INVERTER 2024 – серия современных, производи�
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1163065/Kentatsu_KSGB26HFAN1KSRB26HFAN1.jpg" />
    <Image url="https://s3.mircli.ru/media/1170295/kentatsu-ksgb26hfan1ksrb26hfan1-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1170296/kentatsu-ksgb26hfan1ksrb26hfan1-ucenennyi_2" />
   </Images>
@@ -6076,7 +6002,6 @@ ECLIPSE INVERTER 2024 – серия современных, производи�
    <Image url="https://s3.mircli.ru/media/1171636/eldom-wv10046srd-ucenennyi_6" />
    <Image url="https://s3.mircli.ru/media/1171637/eldom-wv10046srd-ucenennyi_7" />
    <Image url="https://s3.mircli.ru/media/1171638/eldom-wv10046srd-ucenennyi_8" />
-   <Image url="https://s3.mircli.ru/media/1169231/Eldom_WV10046SRD(2).png" />
   </Images>
   <Category>Бытовая техника</Category>
   <GoodsType>Климатическое оборудование</GoodsType>
@@ -6127,8 +6052,6 @@ ECLIPSE INVERTER 2024 – серия современных, производи�
    <Image url="https://s3.mircli.ru/media/1170793/eldom-wv10046srd-ucenennyi_4" />
    <Image url="https://s3.mircli.ru/media/1170794/eldom-wv10046srd-ucenennyi_5" />
    <Image url="https://s3.mircli.ru/media/1170795/eldom-wv10046srd-ucenennyi_6" />
-   <Image url="https://s3.mircli.ru/media/1170782/Eldom_WV10046SRD(2).png" />
-   <Image url="https://s3.mircli.ru/media/1170787/eldom-wv10046srd_1" />
   </Images>
   <Category>Бытовая техника</Category>
   <GoodsType>Климатическое оборудование</GoodsType>
@@ -6147,7 +6070,6 @@ ECLIPSE INVERTER 2024 – серия современных, производи�
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1169248/80362_0.jpg" />
    <Image url="https://s3.mircli.ru/media/1171667/kermi-ftvfkv-10-500x1600-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1171668/kermi-ftvfkv-10-500x1600-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1171669/kermi-ftvfkv-10-500x1600-ucenennyi_3" />
@@ -6187,7 +6109,6 @@ ECLIPSE INVERTER 2024 – серия современных, производи�
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1169271/Purmo_Compact_C_22_300_1100_k.jpg" />
    <Image url="https://s3.mircli.ru/media/1169343/purmo-compact-c-22-300-1100-k-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1169346/purmo-compact-c-22-300-1100-k-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1169347/purmo-compact-c-22-300-1100-k-ucenennyi_3" />
@@ -6237,7 +6158,6 @@ ECLIPSE INVERTER 2024 – серия современных, производи�
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1169351/Rifar_Base_Ventil_20014_sekc._BVR.jpg" />
    <Image url="https://s3.mircli.ru/media/1169361/rifar-base-ventil-20014-sekc-bvr-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1169362/rifar-base-ventil-20014-sekc-bvr-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1169363/rifar-base-ventil-20014-sekc-bvr-ucenennyi_3" />
@@ -6251,7 +6171,7 @@ ECLIPSE INVERTER 2024 – серия современных, производи�
   <HeatingSubType>Радиаторы</HeatingSubType>
   <RadiatorType>Секционный</RadiatorType>
   <Material>Биметалл</Material>
-  <RadiatorSectionsCount>14</RadiatorSectionsCount>
+  <SectionQuantity>14</SectionQuantity>
   <PriceFor>Штуку</PriceFor>
  </Ad>
  <Ad>
@@ -6298,7 +6218,6 @@ ECLIPSE INVERTER 2024 – серия современных, производи�
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1169452/margroid_vid_7_8050.jpg" />
    <Image url="https://s3.mircli.ru/media/1169461/margroid-vid-7-8050-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1169462/margroid-vid-7-8050-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1169463/margroid-vid-7-8050-ucenennyi_3" />
@@ -6336,8 +6255,6 @@ ECLIPSE INVERTER 2024 – серия современных, производи�
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1169466/nika_lZ_lesenka_zigzag_standart_80h50_3.jpg" />
-   <Image url="https://s3.mircli.ru/media/1169469/nika-lz-lesenka-zigzag-standart-80x50-3_1" />
    <Image url="https://s3.mircli.ru/media/1169470/nika-lz-lesenka-zigzag-standart-80x50-3-ucenennyi_2" />
   </Images>
   <Category>Ремонт и строительство</Category>
@@ -6357,8 +6274,6 @@ ECLIPSE INVERTER 2024 – серия современных, производи�
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1169472/80155_0.jpg" />
-   <Image url="https://s3.mircli.ru/media/1169486/kermi-ftvfkv-12-300x2300_1" />
    <Image url="https://s3.mircli.ru/media/1169487/kermi-ftvfkv-12-300x2300-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1169488/kermi-ftvfkv-12-300x2300-ucenennyi_3" />
    <Image url="https://s3.mircli.ru/media/1169489/kermi-ftvfkv-12-300x2300-ucenennyi_4" />
@@ -6416,8 +6331,6 @@ ECLIPSE INVERTER 2024 – серия современных, производи�
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1169502/AXIS_22_500h1600_Classic.JPG" />
-   <Image url="https://s3.mircli.ru/media/1169503/axis-22-500x1600-classic_1" />
    <Image url="https://s3.mircli.ru/media/1169504/axis-22-500x1600-classic-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1169505/axis-22-500x1600-classic-ucenennyi_3" />
    <Image url="https://s3.mircli.ru/media/1169506/axis-22-500x1600-classic-ucenennyi_4" />
@@ -6444,8 +6357,6 @@ ECLIPSE INVERTER 2024 – серия современных, производи�
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1169512/80364_0.jpg" />
-   <Image url="https://s3.mircli.ru/media/1169527/kermi-ftvfkv-10-500x1800_1" />
    <Image url="https://s3.mircli.ru/media/1169528/kermi-ftvfkv-10-500x1800-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1169529/kermi-ftvfkv-10-500x1800-ucenennyi_3" />
    <Image url="https://s3.mircli.ru/media/1169530/kermi-ftvfkv-10-500x1800-ucenennyi_4" />
@@ -6492,8 +6403,6 @@ ECLIPSE INVERTER 2024 – серия современных, производи�
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1169531/132604_0.jpg" />
-   <Image url="https://s3.mircli.ru/media/1169537/lemaks-premium-vc-22x400x1200_1" />
    <Image url="https://s3.mircli.ru/media/1169538/lemaks-premium-vc-22x400x1200-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1169539/lemaks-premium-vc-22x400x1200-ucenennyi_3" />
    <Image url="https://s3.mircli.ru/media/1169540/lemaks-premium-vc-22x400x1200-ucenennyi_4" />
@@ -6521,9 +6430,6 @@ ECLIPSE INVERTER 2024 – серия современных, производи�
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1169546/80748_0.jpg" />
-   <Image url="https://s3.mircli.ru/media/1169567/kermi-fko-33-500x1400_1" />
-   <Image url="https://s3.mircli.ru/media/1169568/kermi-fko-33-500x1400_2" />
    <Image url="https://s3.mircli.ru/media/1169569/kermi-fko-33-500x1400-ucenennyi_3" />
    <Image url="https://s3.mircli.ru/media/1169570/kermi-fko-33-500x1400-ucenennyi_4" />
    <Image url="https://s3.mircli.ru/media/1169574/kermi-fko-33-500x1400-ucenennyi_5" />
@@ -6552,8 +6458,6 @@ ECLIPSE INVERTER 2024 – серия современных, производи�
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1169579/86485_0.jpg" />
-   <Image url="https://s3.mircli.ru/media/1169591/arbonia-318010-n69-tvv-ral-9016_1" />
    <Image url="https://s3.mircli.ru/media/1169593/arbonia-318010-n69-tvv-ral-9016-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1169594/arbonia-318010-n69-tvv-ral-9016-ucenennyi_3" />
    <Image url="https://s3.mircli.ru/media/1169595/arbonia-318010-n69-tvv-ral-9016-ucenennyi_4" />
@@ -6567,6 +6471,7 @@ ECLIPSE INVERTER 2024 – серия современных, производи�
   <HeatingSubType>Радиаторы</HeatingSubType>
   <RadiatorType>Секционный</RadiatorType>
   <Material>Сталь</Material>
+  <SectionQuantity>10</SectionQuantity>
   <PriceFor>Штуку</PriceFor>
  </Ad>
  <Ad>
@@ -6598,8 +6503,6 @@ ECLIPSE INVERTER 2024 – серия современных, производи�
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1169601/122248_0.jpg" />
-   <Image url="https://s3.mircli.ru/media/1169612/kzto-solo-v-1-1750-8_1" />
    <Image url="https://s3.mircli.ru/media/1169613/kzto-solo-v-1-1750-8-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1169614/kzto-solo-v-1-1750-8-ucenennyi_3" />
    <Image url="https://s3.mircli.ru/media/1169615/kzto-solo-v-1-1750-8-ucenennyi_4" />
@@ -6614,6 +6517,7 @@ ECLIPSE INVERTER 2024 – серия современных, производи�
   <HeatingSubType>Радиаторы</HeatingSubType>
   <RadiatorType>Секционный</RadiatorType>
   <Material>Сталь</Material>
+  <SectionQuantity>8</SectionQuantity>
   <PriceFor>Штуку</PriceFor>
  </Ad>
  <Ad>
@@ -6635,8 +6539,6 @@ ECLIPSE INVERTER 2024 – серия современных, производи�
    <Image url="https://s3.mircli.ru/media/1169642/kermi-fko-11-500x2000-ucenennyi-ucenka-9427_4" />
    <Image url="https://s3.mircli.ru/media/1169643/kermi-fko-11-500x2000-ucenennyi-ucenka-9427_5" />
    <Image url="https://s3.mircli.ru/media/1169644/kermi-fko-11-500x2000-ucenennyi-ucenka-9427_6" />
-   <Image url="https://s3.mircli.ru/media/1169622/80204_0.jpg" />
-   <Image url="https://s3.mircli.ru/media/1169635/kermi-fko-11-500x2000_1" />
   </Images>
   <Brand>Kermi</Brand>
   <Category>Ремонт и строительство</Category>
@@ -6666,8 +6568,6 @@ ECLIPSE INVERTER 2024 – серия современных, производи�
    <Image url="https://s3.mircli.ru/media/1169661/kermi-fko-11-500x2000-ucenennyi_3" />
    <Image url="https://s3.mircli.ru/media/1169662/kermi-fko-11-500x2000-ucenennyi_4" />
    <Image url="https://s3.mircli.ru/media/1169666/kermi-fko-11-500x2000-ucenennyi_5" />
-   <Image url="https://s3.mircli.ru/media/1169646/80204_0.jpg" />
-   <Image url="https://s3.mircli.ru/media/1169659/kermi-fko-11-500x2000_1" />
   </Images>
   <Brand>Kermi</Brand>
   <Category>Ремонт и строительство</Category>
@@ -6702,8 +6602,6 @@ Compact 22 – это модельная линейка панельных ра�
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1169682/Purmo_C22_300x1800__1730_vt.png" />
-   <Image url="https://s3.mircli.ru/media/1169693/purmo-c22-300x1800-1730-vt_1" />
    <Image url="https://s3.mircli.ru/media/1169696/purmo-c22-300x1800-1730-vt-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1169697/purmo-c22-300x1800-1730-vt-ucenennyi_3" />
    <Image url="https://s3.mircli.ru/media/1169698/purmo-c22-300x1800-1730-vt-ucenennyi_4" />
@@ -6751,8 +6649,6 @@ Compact 22 – это модельная линейка панельных ра�
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1169700/132632_0.jpg" />
-   <Image url="https://s3.mircli.ru/media/1169704/lemaks-premium-vc-22x500x1500_1" />
    <Image url="https://s3.mircli.ru/media/1169705/lemaks-premium-vc-22x500x1500-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1169706/lemaks-premium-vc-22x500x1500-ucenennyi_3" />
    <Image url="https://s3.mircli.ru/media/1169707/lemaks-premium-vc-22x500x1500-ucenennyi_4" />
@@ -6794,8 +6690,6 @@ Compact 22 – это модельная линейка панельных ра�
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1169710/Zehnder_Charleston_Completto_218010V001TL(5).png" />
-   <Image url="https://s3.mircli.ru/media/1169715/zehnder-charleston-completto-218010v001tl_1" />
    <Image url="https://s3.mircli.ru/media/1169716/zehnder-charleston-completto-218010v001tl-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1169717/zehnder-charleston-completto-218010v001tl-ucenennyi_3" />
    <Image url="https://s3.mircli.ru/media/1169718/zehnder-charleston-completto-218010v001tl-ucenennyi_4" />
@@ -6810,6 +6704,7 @@ Compact 22 – это модельная линейка панельных ра�
   <HeatingSubType>Радиаторы</HeatingSubType>
   <RadiatorType>Секционный</RadiatorType>
   <Material>Сталь</Material>
+  <SectionQuantity>10</SectionQuantity>
   <PriceFor>Штуку</PriceFor>
  </Ad>
  <Ad>
@@ -6855,7 +6750,6 @@ Compact 22 – это модельная линейка панельных ра�
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1169722/Purmo_C11_600x1400__1425_vt.png" />
    <Image url="https://s3.mircli.ru/media/1169727/purmo-c11-600x1400-1425-vt-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1169728/purmo-c11-600x1400-1425-vt-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1169729/purmo-c11-600x1400-1425-vt-ucenennyi_3" />
@@ -6886,8 +6780,6 @@ Compact 22 – это модельная линейка панельных ра�
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1169738/80307_0.jpg" />
-   <Image url="https://s3.mircli.ru/media/1169761/kermi-ftvfkv-11-300x1600_1" />
    <Image url="https://s3.mircli.ru/media/1169764/kermi-ftvfkv-11-300x1600-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1169767/kermi-ftvfkv-11-300x1600-ucenennyi_3" />
    <Image url="https://s3.mircli.ru/media/1169768/kermi-ftvfkv-11-300x1600-ucenennyi_4" />
@@ -6945,8 +6837,6 @@ Compact 22 – это модельная линейка панельных ра�
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1169774/AXIS_11_500h1400_Ventil.JPG" />
-   <Image url="https://s3.mircli.ru/media/1169775/axis-11-500x1400-ventil_1" />
    <Image url="https://s3.mircli.ru/media/1169780/axis-11-500x1400-ventil-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1169781/axis-11-500x1400-ventil-ucenennyi_3" />
    <Image url="https://s3.mircli.ru/media/1169782/axis-11-500x1400-ventil-ucenennyi_4" />
@@ -6995,8 +6885,6 @@ Compact 22 – это модельная линейка панельных ра�
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1169787/lemaks_Premium_C_33h300h1200.jpeg" />
-   <Image url="https://s3.mircli.ru/media/1169792/lemaks-premium-c-33x300x1200_1" />
    <Image url="https://s3.mircli.ru/media/1169793/lemaks-premium-c-33x300x1200-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1169794/lemaks-premium-c-33x300x1200-ucenennyi_3" />
    <Image url="https://s3.mircli.ru/media/1169797/lemaks-premium-c-33x300x1200-ucenennyi_4" />
@@ -7027,8 +6915,6 @@ Compact 22 – это модельная линейка панельных ра�
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1169800/87956_0.jpg" />
-   <Image url="https://s3.mircli.ru/media/1169809/arbonia-205022-n12-34-ral-9016_1" />
    <Image url="https://s3.mircli.ru/media/1169810/arbonia-205022-n12-34-ral-9016-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1169811/arbonia-205022-n12-34-ral-9016-ucenennyi_3" />
    <Image url="https://s3.mircli.ru/media/1169812/arbonia-205022-n12-34-ral-9016-ucenennyi_4" />
@@ -7044,6 +6930,7 @@ Compact 22 – это модельная линейка панельных ра�
   <HeatingSubType>Радиаторы</HeatingSubType>
   <RadiatorType>Секционный</RadiatorType>
   <Material>Сталь</Material>
+  <SectionQuantity>22</SectionQuantity>
   <PriceFor>Штуку</PriceFor>
  </Ad>
  <Ad>
@@ -7091,16 +6978,7 @@ Compact 22 – это модельная линейка панельных ра�
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1169822/81114_0.jpg" />
-   <Image url="https://s3.mircli.ru/media/1169836/buderus-radiator-vk-profil-216001800-18-c_1" />
-   <Image url="https://s3.mircli.ru/media/1169837/buderus-radiator-vk-profil-216001800-18-c_2" />
-   <Image url="https://s3.mircli.ru/media/1169840/buderus-radiator-vk-profil-216001800-18-c_3" />
-   <Image url="https://s3.mircli.ru/media/1169841/buderus-radiator-vk-profil-216001800-18-c_4" />
-   <Image url="https://s3.mircli.ru/media/1169842/buderus-radiator-vk-profil-216001800-18-c_5" />
-   <Image url="https://s3.mircli.ru/media/1169843/buderus-radiator-vk-profil-216001800-18-c_6" />
-   <Image url="https://s3.mircli.ru/media/1169844/buderus-radiator-vk-profil-216001800-18-c_7" />
-   <Image url="https://s3.mircli.ru/media/1169845/buderus-radiator-vk-profil-216001800-18-c_8" />
-   <Image url="https://s3.mircli.ru/media/1169846/buderus-radiator-vk-profil-216001800-18-c_9" />
+   <Image url="https://s3.mircli.ru/media/1169849/buderus-radiator-vk-profil-216001800-18-c-ucenennyi_12" />
   </Images>
   <Brand>Buderus</Brand>
   <Category>Ремонт и строительство</Category>
@@ -7135,7 +7013,6 @@ Compact 22 – это модельная линейка панельных ра�
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1169850/Ballu_BIH_S3_0.6.jpg" />
    <Image url="https://s3.mircli.ru/media/1169859/ballu-bih-s3-06-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1169860/ballu-bih-s3-06-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1169861/ballu-bih-s3-06-ucenennyi_3" />
@@ -7170,9 +7047,6 @@ Tylo DGL – серия надежных и современных дверей 
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1169881/Tylo_DGL_8x20_osina_prozrachnoe_steklo.jpg" />
-   <Image url="https://s3.mircli.ru/media/1169885/tylo-dgl-8x20-osina-prozracnoe-steklo_1" />
-   <Image url="https://s3.mircli.ru/media/1169886/tylo-dgl-8x20-osina-prozracnoe-steklo_2" />
    <Image url="https://s3.mircli.ru/media/1169887/tylo-dgl-8x20-osina-prozracnoe-steklo-ucenennaia_3" />
    <Image url="https://s3.mircli.ru/media/1169888/tylo-dgl-8x20-osina-prozracnoe-steklo-ucenennaia_4" />
    <Image url="https://s3.mircli.ru/media/1169889/tylo-dgl-8x20-osina-prozracnoe-steklo-ucenennaia_5" />
@@ -7215,16 +7089,11 @@ Tylo DGL – серия надежных и современных дверей 
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1169941/Electrolux_Tetris_Classic_belyj_seryj_s_ochagom_EFPP_1020LS.jpg" />
-   <Image url="https://s3.mircli.ru/media/1169945/electrolux-efpp-1020ls-s-portalom-firelight-tetris-classic-belyi-seryi_1" />
-   <Image url="https://s3.mircli.ru/media/1169946/electrolux-efpp-1020ls-s-portalom-firelight-tetris-classic-belyi-seryi_2" />
-   <Image url="https://s3.mircli.ru/media/1169947/electrolux-efpp-1020ls-s-portalom-firelight-tetris-classic-belyi-seryi_3" />
-   <Image url="https://s3.mircli.ru/media/1169948/electrolux-efpp-1020ls-s-portalom-firelight-tetris-classic-belyi-seryi_4" />
-   <Image url="https://s3.mircli.ru/media/1169949/electrolux-efpp-1020ls-s-portalom-firelight-tetris-classic-belyi-seryi_5" />
    <Image url="https://s3.mircli.ru/media/1169950/electrolux-efpp-1020ls-s-portalom-firelight-tetris-classic-belyi-seryi-ucenennyi_6" />
    <Image url="https://s3.mircli.ru/media/1169951/electrolux-efpp-1020ls-s-portalom-firelight-tetris-classic-belyi-seryi-ucenennyi_7" />
    <Image url="https://s3.mircli.ru/media/1169952/electrolux-efpp-1020ls-s-portalom-firelight-tetris-classic-belyi-seryi-ucenennyi_8" />
    <Image url="https://s3.mircli.ru/media/1169960/electrolux-efpp-1020ls-s-portalom-firelight-tetris-classic-belyi-seryi-ucenennyi_9" />
+   <Image url="https://s3.mircli.ru/media/1169962/electrolux-efpp-1020ls-s-portalom-firelight-tetris-classic-belyi-seryi-ucenennyi_10" />
   </Images>
   <Category>Ремонт и строительство</Category>
   <GoodsType>Камины и обогреватели</GoodsType>
@@ -7258,10 +7127,6 @@ Tylo DGL – серия надежных и современных дверей 
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1170648/KVZ_300_80_2400.jpg" />
-   <Image url="https://s3.mircli.ru/media/1170652/kvz-300-80-2400_1" />
-   <Image url="https://s3.mircli.ru/media/1170653/kvz-300-80-2400_2" />
-   <Image url="https://s3.mircli.ru/media/1170655/kvz-300-80-2400_4" />
    <Image url="https://s3.mircli.ru/media/1170656/kvz-300-80-2400-ucenennyi_5" />
    <Image url="https://s3.mircli.ru/media/1170657/kvz-300-80-2400-ucenennyi_6" />
    <Image url="https://s3.mircli.ru/media/1170658/kvz-300-80-2400-ucenennyi_7" />
@@ -7311,8 +7176,6 @@ Iseo 350 – среднемощная линейка в семействе це�
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1170660/Global_Iseo_350_10_sekc..jpg" />
-   <Image url="https://s3.mircli.ru/media/1170663/global-iseo-350-10-sekc-is035010_1" />
    <Image url="https://s3.mircli.ru/media/1170664/global-iseo-350-10-sekc-is035010-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1170665/global-iseo-350-10-sekc-is035010-ucenennyi_3" />
    <Image url="https://s3.mircli.ru/media/1170666/global-iseo-350-10-sekc-is035010-ucenennyi_4" />
@@ -7330,7 +7193,7 @@ Iseo 350 – среднемощная линейка в семействе це�
   <HeatingSubType>Радиаторы</HeatingSubType>
   <RadiatorType>Секционный</RadiatorType>
   <Material>Алюминий</Material>
-  <RadiatorSectionsCount>10</RadiatorSectionsCount>
+  <SectionQuantity>10</SectionQuantity>
   <PriceFor>Штуку</PriceFor>
  </Ad>
  <Ad>
@@ -7438,8 +7301,6 @@ Platinum DС inverter - это серия новейших настенных и
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <CompleteEquipment />
   <Images>
-   <Image url="https://s3.mircli.ru/media/1170734/Haier_AS35PS1HRA_M.png" />
-   <Image url="https://s3.mircli.ru/media/1170740/haier-coral-super-match-as35ps1hra-m_1" />
    <Image url="https://s3.mircli.ru/media/1170741/haier-coral-super-match-as35ps1hra-m-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1170742/haier-coral-super-match-as35ps1hra-m-ucenennyi_3" />
    <Image url="https://s3.mircli.ru/media/1170743/haier-coral-super-match-as35ps1hra-m-ucenennyi_4" />
@@ -7476,8 +7337,6 @@ Platinum DС inverter - это серия новейших настенных и
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1170744/Kratki_UMBRELLABSCG3137MBARS__bez_stoek_chernyj.png" />
-   <Image url="https://s3.mircli.ru/media/1170750/kratki-umbrellabscg3137mbarsze-bez-stoek-cernyi_1" />
    <Image url="https://s3.mircli.ru/media/1170751/kratki-umbrellabscg3137mbarsze-bez-stoek-cernyi-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1170752/kratki-umbrellabscg3137mbarsze-bez-stoek-cernyi-ucenennyi_3" />
    <Image url="https://s3.mircli.ru/media/1170753/kratki-umbrellabscg3137mbarsze-bez-stoek-cernyi-ucenennyi_4" />
@@ -7518,9 +7377,6 @@ Compact Inverter TZ – это серия инверторных сплит-си
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1170773/Panasonic_CS_TZ25TKEWCU_TZ25TKE(2).jpg" />
-   <Image url="https://s3.mircli.ru/media/1170776/panasonic-compact-cs-tz25tkew-1cu-tz25tke-1_3" />
-   <Image url="https://s3.mircli.ru/media/1170777/panasonic-compact-cs-tz25tkew-1cu-tz25tke-1_2" />
    <Image url="https://s3.mircli.ru/media/1170778/panasonic-compact-cs-tz25tkew-1cu-tz25tke-1-ucenennyi_3" />
    <Image url="https://s3.mircli.ru/media/1170779/panasonic-compact-cs-tz25tkew-1cu-tz25tke-1-ucenennyi_4" />
    <Image url="https://s3.mircli.ru/media/1170781/panasonic-compact-cs-tz25tkew-1cu-tz25tke-1-ucenennyi_5" />
@@ -7561,16 +7417,13 @@ Compact Inverter TZ – это серия инверторных сплит-си
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1170796/Thermex_Nova_50_V_Slim.jpg" />
-   <Image url="https://s3.mircli.ru/media/1170801/thermex-nova-50-v-slim_1" />
-   <Image url="https://s3.mircli.ru/media/1170802/thermex-nova-50-v-slim_2" />
-   <Image url="https://s3.mircli.ru/media/1170803/thermex-nova-50-v-slim_3" />
    <Image url="https://s3.mircli.ru/media/1170804/thermex-nova-50-v-slim-ucenennyi_4" />
    <Image url="https://s3.mircli.ru/media/1170805/thermex-nova-50-v-slim-ucenennyi_5" />
    <Image url="https://s3.mircli.ru/media/1170806/thermex-nova-50-v-slim-ucenennyi_6" />
    <Image url="https://s3.mircli.ru/media/1170807/thermex-nova-50-v-slim-ucenennyi_7" />
    <Image url="https://s3.mircli.ru/media/1170808/thermex-nova-50-v-slim-ucenennyi_8" />
    <Image url="https://s3.mircli.ru/media/1170809/thermex-nova-50-v-slim-ucenennyi_9" />
+   <Image url="https://s3.mircli.ru/media/1170810/thermex-nova-50-v-slim-ucenennyi_10" />
   </Images>
   <Category>Бытовая техника</Category>
   <GoodsType>Климатическое оборудование</GoodsType>
@@ -7607,8 +7460,6 @@ Compact Inverter TZ – это серия инверторных сплит-си
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1170838/Thermex_Praktik_80_V.jpg" />
-   <Image url="https://s3.mircli.ru/media/1170839/thermex-praktik-80-v_1" />
    <Image url="https://s3.mircli.ru/media/1170840/thermex-praktik-80-v-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1170841/thermex-praktik-80-v-ucenennyi_3" />
    <Image url="https://s3.mircli.ru/media/1170842/thermex-praktik-80-v-ucenennyi_4" />
@@ -7643,7 +7494,6 @@ Compact Inverter TZ – это серия инверторных сплит-си
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1170846/Vodotok_nk_400a.jpg" />
    <Image url="https://s3.mircli.ru/media/1170847/vodotok-nk-400a-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1170848/vodotok-nk-400a-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1170849/vodotok-nk-400a-ucenennyi_3" />
@@ -7688,9 +7538,6 @@ Royal Clima серия TRIUMPH Inverter Upgrade – это отличные вн
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <CompleteEquipment />
   <Images>
-   <Image url="https://s3.mircli.ru/media/1170863/royal-clima-triumph-rci-tmn09hn_1" />
-   <Image url="https://s3.mircli.ru/media/1170867/royal-clima-triumph-rci-tmn09hn_1" />
-   <Image url="https://s3.mircli.ru/media/1170868/royal-clima-triumph-rci-tmn09hn_2" />
    <Image url="https://s3.mircli.ru/media/1170869/royal-clima-triumph-rci-tmn09hn-ucenennyi_3" />
    <Image url="https://s3.mircli.ru/media/1170870/royal-clima-triumph-rci-tmn09hn-ucenennyi_4" />
    <Image url="https://s3.mircli.ru/media/1170871/royal-clima-triumph-rci-tmn09hn-ucenennyi_5" />
@@ -7731,16 +7578,14 @@ Royal Clima серия TRIUMPH Inverter Upgrade – это отличные вн
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1170882/Tropik_Line_tvt_3.jpg" />
-   <Image url="https://s3.mircli.ru/media/1170885/tropik-tvt-3_1" />
-   <Image url="https://s3.mircli.ru/media/1170886/tropik-tvt-3_2" />
-   <Image url="https://s3.mircli.ru/media/1170887/tropik-tvt-3_3" />
    <Image url="https://s3.mircli.ru/media/1170888/tropik-tvt-3-ucenennyi_4" />
    <Image url="https://s3.mircli.ru/media/1170889/tropik-tvt-3-ucenennyi_5" />
    <Image url="https://s3.mircli.ru/media/1170890/tropik-tvt-3-ucenennyi_6" />
    <Image url="https://s3.mircli.ru/media/1170891/tropik-tvt-3-ucenennyi_7" />
    <Image url="https://s3.mircli.ru/media/1170892/tropik-tvt-3-ucenennyi_8" />
    <Image url="https://s3.mircli.ru/media/1170893/tropik-tvt-3-ucenennyi_9" />
+   <Image url="https://s3.mircli.ru/media/1170894/tropik-tvt-3-ucenennyi_10" />
+   <Image url="https://s3.mircli.ru/media/1170895/tropik-tvt-3-ucenennyi_11" />
   </Images>
   <Category>Бытовая техника</Category>
   <GoodsType>Климатическое оборудование</GoodsType>
@@ -7759,16 +7604,16 @@ Royal Clima серия TRIUMPH Inverter Upgrade – это отличные вн
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1170908/80519_0.jpg" />
-   <Image url="https://s3.mircli.ru/media/1170921/kermi-fko-22-500x1800_1" />
-   <Image url="https://s3.mircli.ru/media/1170922/kermi-fko-22-500x1800_2" />
-   <Image url="https://s3.mircli.ru/media/1170923/kermi-fko-22-500x1800_3" />
-   <Image url="https://s3.mircli.ru/media/1170924/kermi-fko-22-500x1800_4" />
    <Image url="https://s3.mircli.ru/media/1170925/kermi-fko-22-500x1800-ucenennyi_5" />
    <Image url="https://s3.mircli.ru/media/1170926/kermi-fko-22-500x1800-ucenennyi_6" />
    <Image url="https://s3.mircli.ru/media/1170927/kermi-fko-22-500x1800-ucenennyi_7" />
    <Image url="https://s3.mircli.ru/media/1170928/kermi-fko-22-500x1800-ucenennyi_8" />
    <Image url="https://s3.mircli.ru/media/1170929/kermi-fko-22-500x1800-ucenennyi_9" />
+   <Image url="https://s3.mircli.ru/media/1170930/kermi-fko-22-500x1800-ucenennyi_10" />
+   <Image url="https://s3.mircli.ru/media/1170931/kermi-fko-22-500x1800-ucenennyi_11" />
+   <Image url="https://s3.mircli.ru/media/1170937/kermi-fko-22-500x1800-ucenennyi_13" />
+   <Image url="https://s3.mircli.ru/media/1170938/kermi-fko-22-500x1800-ucenennyi_14" />
+   <Image url="https://s3.mircli.ru/media/1170939/kermi-fko-22-500x1800-ucenennyi_15" />
   </Images>
   <Brand>Kermi</Brand>
   <Category>Ремонт и строительство</Category>
@@ -7877,16 +7722,14 @@ Multi Gamma Gloria - это обновленный модельный ряд в�
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <CompleteEquipment />
   <Images>
-   <Image url="https://s3.mircli.ru/media/1170955/royal-clima-multi-gamma-gloria-rci-gld07hn_1" />
-   <Image url="https://s3.mircli.ru/media/1170959/royal-clima-multi-gamma-gloria-rci-gld07hn_1" />
-   <Image url="https://s3.mircli.ru/media/1170960/royal-clima-multi-gamma-gloria-rci-gld07hn_2" />
-   <Image url="https://s3.mircli.ru/media/1170961/royal-clima-multi-gamma-gloria-rci-gld07hn_3" />
    <Image url="https://s3.mircli.ru/media/1170962/royal-clima-multi-gamma-gloria-rci-gld07hn-ucenennyi_4" />
    <Image url="https://s3.mircli.ru/media/1170963/royal-clima-multi-gamma-gloria-rci-gld07hn-ucenennyi_5" />
    <Image url="https://s3.mircli.ru/media/1170964/royal-clima-multi-gamma-gloria-rci-gld07hn-ucenennyi_6" />
    <Image url="https://s3.mircli.ru/media/1170971/royal-clima-multi-gamma-gloria-rci-gld07hn-ucenennyi_7" />
    <Image url="https://s3.mircli.ru/media/1170972/royal-clima-multi-gamma-gloria-rci-gld07hn-ucenennyi_8" />
    <Image url="https://s3.mircli.ru/media/1170973/royal-clima-multi-gamma-gloria-rci-gld07hn-ucenennyi_9" />
+   <Image url="https://s3.mircli.ru/media/1170974/royal-clima-multi-gamma-gloria-rci-gld07hn-ucenennyi_10" />
+   <Image url="https://s3.mircli.ru/media/1170975/royal-clima-multi-gamma-gloria-rci-gld07hn-ucenennyi_11" />
   </Images>
   <Category>Бытовая техника</Category>
   <GoodsType>Климатическое оборудование</GoodsType>
@@ -7922,10 +7765,6 @@ Multi Gamma Gloria - это обновленный модельный ряд в�
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1170976/OTTIMO_Premium_21h500h1200_bok._podkl..jpeg" />
-   <Image url="https://s3.mircli.ru/media/1170979/ottimo-premium-21x500x1200-bok-podkl_1" />
-   <Image url="https://s3.mircli.ru/media/1170980/ottimo-premium-21x500x1200-bok-podkl_2" />
-   <Image url="https://s3.mircli.ru/media/1170981/ottimo-premium-21x500x1200-bok-podkl_3" />
    <Image url="https://s3.mircli.ru/media/1170985/ottimo-premium-21x500x1200-bok-podkl-ucenennyi_5" />
   </Images>
   <Brand>OTTIMO</Brand>
@@ -7971,10 +7810,6 @@ Multi Gamma Gloria - это обновленный модельный ряд в�
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1171029/FLAMCO_Flexcon_R_25.jpg" />
-   <Image url="https://s3.mircli.ru/media/1171032/flamco-flexcon-r-25_1" />
-   <Image url="https://s3.mircli.ru/media/1171033/flamco-flexcon-r-25_2" />
-   <Image url="https://s3.mircli.ru/media/1171034/flamco-flexcon-r-25_3" />
    <Image url="https://s3.mircli.ru/media/1171035/flamco-flexcon-r-25-ucenennyi_4" />
    <Image url="https://s3.mircli.ru/media/1171036/flamco-flexcon-r-25-ucenennyi_5" />
    <Image url="https://s3.mircli.ru/media/1171037/flamco-flexcon-r-25-ucenennyi_6" />
@@ -8014,10 +7849,6 @@ Multi Gamma Gloria - это обновленный модельный ряд в�
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1171038/Wilo_Star_Z_252_DM.png" />
-   <Image url="https://s3.mircli.ru/media/1171039/wilo-star-z-252-dm_1" />
-   <Image url="https://s3.mircli.ru/media/1171040/wilo-star-z-252-dm_2" />
-   <Image url="https://s3.mircli.ru/media/1171041/wilo-star-z-252-dm_3" />
    <Image url="https://s3.mircli.ru/media/1171042/wilo-star-z-252-dm-ucenennyi_4" />
    <Image url="https://s3.mircli.ru/media/1171043/wilo-star-z-252-dm-ucenennyi_5" />
    <Image url="https://s3.mircli.ru/media/1171044/wilo-star-z-252-dm-ucenennyi_6" />
@@ -8059,9 +7890,6 @@ Multi Gamma Gloria - это обновленный модельный ряд в�
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1171049/Kalashnikov_KVs_B15E6_01(4).jpg" />
-   <Image url="https://s3.mircli.ru/media/1171059/kalashnikov-kvs-b15e6-01_2" />
-   <Image url="https://s3.mircli.ru/media/1171060/kalashnikov-kvs-b15e6-01_3" />
    <Image url="https://s3.mircli.ru/media/1171061/kalashnikov-kvs-b15e6-01-ucenennaia_3" />
    <Image url="https://s3.mircli.ru/media/1171062/kalashnikov-kvs-b15e6-01-ucenennaia_4" />
    <Image url="https://s3.mircli.ru/media/1171063/kalashnikov-kvs-b15e6-01-ucenennaia_5" />
@@ -8084,9 +7912,6 @@ Multi Gamma Gloria - это обновленный модельный ряд в�
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1171266/133418_0.jpg" />
-   <Image url="https://s3.mircli.ru/media/1171272/techno-300-2400-rulonnaia_1" />
-   <Image url="https://s3.mircli.ru/media/1171273/techno-300-2400-rulonnaia_2" />
    <Image url="https://s3.mircli.ru/media/1171274/techno-300-2400-rulonnaia-ucenennaia_3" />
    <Image url="https://s3.mircli.ru/media/1171275/techno-300-2400-rulonnaia-ucenennaia_4" />
   </Images>
@@ -8127,10 +7952,8 @@ Multi Gamma Gloria - это обновленный модельный ряд в�
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1172687/sistemejr_TK_250_B.jpg" />
    <Image url="https://s3.mircli.ru/media/1172690/sysimple-tk-250-b-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1172691/sysimple-tk-250-b-ucenennyi_3" />
-   <Image url="https://s3.mircli.ru/media/1172689/sistemejr_TK_250_B.png" />
   </Images>
   <Category>Бытовая техника</Category>
   <GoodsType>Климатическое оборудование</GoodsType>
@@ -8162,7 +7985,6 @@ Multi Gamma Gloria - это обновленный модельный ряд в�
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1174587/General_Climate_CM520W_NERG_KWH_28_F_SS.jpg" />
    <Image url="https://s3.mircli.ru/media/1174591/general-climate-cm520w-nerg-kwh-28-f-ss-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1174592/general-climate-cm520w-nerg-kwh-28-f-ss-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1174593/general-climate-cm520w-nerg-kwh-28-f-ss-ucenennyi_3" />
@@ -8205,7 +8027,6 @@ Multi Gamma Gloria - это обновленный модельный ряд в�
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1174600/WING_II_E200_AC.png" />
    <Image url="https://s3.mircli.ru/media/1174650/wing-ii-e200-ac-ucenennaia_1" />
    <Image url="https://s3.mircli.ru/media/1174651/wing-ii-e200-ac-ucenennaia_2" />
    <Image url="https://s3.mircli.ru/media/1174652/wing-ii-e200-ac-ucenennaia_3" />
@@ -8243,7 +8064,6 @@ Multi Gamma Gloria - это обновленный модельный ряд в�
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1174693/Nobo_NFK2N_05.jpg" />
    <Image url="https://s3.mircli.ru/media/1174696/nobo-nfk2n-05-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1174697/nobo-nfk2n-05-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1174698/nobo-nfk2n-05-ucenennyi_3" />
@@ -8283,10 +8103,6 @@ Multi Gamma Gloria - это обновленный модельный ряд в�
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1174723/Hintek_IO_45_otkrytyj_ten.jpg" />
-   <Image url="https://s3.mircli.ru/media/1174739/hintek-io-45-otkrytyi-ten_1" />
-   <Image url="https://s3.mircli.ru/media/1174740/hintek-io-45-otkrytyi-ten_2" />
-   <Image url="https://s3.mircli.ru/media/1174741/hintek-io-45-otkrytyi-ten_3" />
    <Image url="https://s3.mircli.ru/media/1174742/hintek-io-45-otkrytyi-ten-ucenennyi_4" />
    <Image url="https://s3.mircli.ru/media/1174743/hintek-io-45-otkrytyi-ten-ucenennyi_5" />
   </Images>
@@ -8356,7 +8172,6 @@ Multi Gamma Gloria - это обновленный модельный ряд в�
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1174776/OGINT_rbs_500_7_sekc_1225_vt.jpg" />
    <Image url="https://s3.mircli.ru/media/1174797/ogint-rbs-500-7-sekc-1225-vt-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1174798/ogint-rbs-500-7-sekc-1225-vt-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1174799/ogint-rbs-500-7-sekc-1225-vt-ucenennyi_3" />
@@ -8373,7 +8188,7 @@ Multi Gamma Gloria - это обновленный модельный ряд в�
   <HeatingSubType>Радиаторы</HeatingSubType>
   <RadiatorType>Секционный</RadiatorType>
   <Material>Биметалл</Material>
-  <RadiatorSectionsCount>7</RadiatorSectionsCount>
+  <SectionQuantity>7</SectionQuantity>
   <PriceFor>Штуку</PriceFor>
  </Ad>
  <Ad>
@@ -8397,7 +8212,6 @@ Multi Gamma Gloria - это обновленный модельный ряд в�
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1174807/Thermex_Thermo_80_V(2).jpg" />
    <Image url="https://s3.mircli.ru/media/1174811/thermex-thermo-80-v-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1174812/thermex-thermo-80-v-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1174813/thermex-thermo-80-v-ucenennyi_3" />
@@ -8440,14 +8254,14 @@ Multi Gamma Gloria - это обновленный модельный ряд в�
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1174853/Soler__Palau_Decor_300CR.jpeg" />
    <Image url="https://s3.mircli.ru/media/1174861/soler-palau-decor-300cr-ucenennaia_1" />
    <Image url="https://s3.mircli.ru/media/1174862/soler-palau-decor-300cr-ucenennaia_2" />
    <Image url="https://s3.mircli.ru/media/1174863/soler-palau-decor-300cr-ucenennaia_3" />
   </Images>
   <Category>Бытовая техника</Category>
-  <GoodsType>Для кухни</GoodsType>
-  <ProductType>Вытяжки и аксессуары</ProductType>
+  <GoodsType>Климатическое оборудование</GoodsType>
+  <ProductType>Вентиляционное оборудование</ProductType>
+  <GoodsSubType>Вентиляторы</GoodsSubType>
  </Ad>
  <Ad>
   <Id>298568</Id>
@@ -8473,10 +8287,6 @@ SWH - серия комбинированных водонагревателей
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1174890/STOUT_napolnyj_100_l._ten_2_kvt_SWH_1110_050100.jpg" />
-   <Image url="https://s3.mircli.ru/media/1174893/stout-napolnyi-100-l-ten-2-kvt-swh-1110-050100_1" />
-   <Image url="https://s3.mircli.ru/media/1174894/stout-napolnyi-100-l-ten-2-kvt-swh-1110-050100_2" />
-   <Image url="https://s3.mircli.ru/media/1174895/stout-napolnyi-100-l-ten-2-kvt-swh-1110-050100_3" />
    <Image url="https://s3.mircli.ru/media/1174896/stout-napolnyi-100-l-ten-2-kvt-swh-1110-050100-ucenennyi_4" />
    <Image url="https://s3.mircli.ru/media/1174897/stout-napolnyi-100-l-ten-2-kvt-swh-1110-050100-ucenennyi_5" />
    <Image url="https://s3.mircli.ru/media/1174898/stout-napolnyi-100-l-ten-2-kvt-swh-1110-050100-ucenennyi_6" />
@@ -8513,9 +8323,6 @@ SWH - серия комбинированных водонагревателей
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1175195/Sabiel_MB6(1).jpg" />
-   <Image url="https://s3.mircli.ru/media/1175205/sabiel-mb6_1" />
-   <Image url="https://s3.mircli.ru/media/1175206/sabiel-mb6_2" />
    <Image url="https://s3.mircli.ru/media/1175207/sabiel-mb6-ucenennyi_3" />
    <Image url="https://s3.mircli.ru/media/1175208/sabiel-mb6-ucenennyi_4" />
   </Images>
@@ -8547,14 +8354,14 @@ SWH - серия комбинированных водонагревателей
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1175225/FoZa_FZ_100_black(6).jpg" />
    <Image url="https://s3.mircli.ru/media/1175231/foza-fz-100-black-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1175232/foza-fz-100-black-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1175233/foza-fz-100-black-ucenennyi_3" />
   </Images>
   <Category>Бытовая техника</Category>
-  <GoodsType>Для кухни</GoodsType>
-  <ProductType>Вытяжки и аксессуары</ProductType>
+  <GoodsType>Климатическое оборудование</GoodsType>
+  <ProductType>Вентиляционное оборудование</ProductType>
+  <GoodsSubType>Вентиляторы</GoodsSubType>
  </Ad>
  <Ad>
   <Id>298576</Id>
@@ -8586,9 +8393,6 @@ SWH - серия комбинированных водонагревателей
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1175234/Royal_Clima_RWH_TR30_SS.jpg" />
-   <Image url="https://s3.mircli.ru/media/1175240/royal-clima-rwh-tr30-ss_1" />
-   <Image url="https://s3.mircli.ru/media/1175241/royal-clima-rwh-tr30-ss_2" />
    <Image url="https://s3.mircli.ru/media/1175242/royal-clima-rwh-tr30-ss-ucenennyi_3" />
    <Image url="https://s3.mircli.ru/media/1175243/royal-clima-rwh-tr30-ss-ucenennyi_4" />
    <Image url="https://s3.mircli.ru/media/1175244/royal-clima-rwh-tr30-ss-ucenennyi_5" />
@@ -8624,10 +8428,6 @@ SWH - серия комбинированных водонагревателей
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1175255/Electrolux_ECHR_2500_T.jpg" />
-   <Image url="https://s3.mircli.ru/media/1175256/electrolux-echr-2500-t_1" />
-   <Image url="https://s3.mircli.ru/media/1175257/electrolux-echr-2500-t_2" />
-   <Image url="https://s3.mircli.ru/media/1175258/electrolux-echr-2500-t_3" />
    <Image url="https://s3.mircli.ru/media/1175259/electrolux-echr-2500-t-ucenennyi_4" />
    <Image url="https://s3.mircli.ru/media/1175260/electrolux-echr-2500-t-ucenennyi_5" />
   </Images>
@@ -8665,10 +8465,6 @@ SWH - серия комбинированных водонагревателей
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1175651/HARVIA_Club_K15G_bez_pulta.png" />
-   <Image url="https://s3.mircli.ru/media/1175654/harvia-club-k15g-bez-pulta_1" />
-   <Image url="https://s3.mircli.ru/media/1175655/harvia-club-k15g-bez-pulta_2" />
-   <Image url="https://s3.mircli.ru/media/1175656/harvia-club-k15g-bez-pulta_3" />
    <Image url="https://s3.mircli.ru/media/1175657/harvia-club-k15g-bez-pulta-ucenennaia_4" />
    <Image url="https://s3.mircli.ru/media/1175658/harvia-club-k15g-bez-pulta-ucenennaia_5" />
    <Image url="https://s3.mircli.ru/media/1175659/harvia-club-k15g-bez-pulta-ucenennaia_6" />
@@ -8714,8 +8510,9 @@ SWH - серия комбинированных водонагревателей
    <Image url="https://s3.mircli.ru/media/1175667/soler-palau-silent-100-cz-black-swarovski-design-220-240v-50hz-re_4" />
   </Images>
   <Category>Бытовая техника</Category>
-  <GoodsType>Для кухни</GoodsType>
-  <ProductType>Вытяжки и аксессуары</ProductType>
+  <GoodsType>Климатическое оборудование</GoodsType>
+  <ProductType>Вентиляционное оборудование</ProductType>
+  <GoodsSubType>Вентиляторы</GoodsSubType>
  </Ad>
  <Ad>
   <Id>298593</Id>
@@ -8748,7 +8545,6 @@ SWH - серия комбинированных водонагревателей
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1175671/Vodotok_bcpe_gv_75_0.5_63m_ch.jpg" />
    <Image url="https://s3.mircli.ru/media/1175675/vodotok-bcpe-gv-75-05-63m-c-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1175676/vodotok-bcpe-gv-75-05-63m-c-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1175677/vodotok-bcpe-gv-75-05-63m-c-ucenennyi_3" />
@@ -8786,10 +8582,6 @@ SWH - серия комбинированных водонагревателей
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1175709/Mmotors_vOK_135120_t_205_m3ch_s_obratnym_klapanom.jpg" />
-   <Image url="https://s3.mircli.ru/media/1175712/mmotors-vok-135120-t-205-m3c-s-obratnym-klapanom_1" />
-   <Image url="https://s3.mircli.ru/media/1175713/mmotors-vok-135120-t-205-m3c-s-obratnym-klapanom_2" />
-   <Image url="https://s3.mircli.ru/media/1175714/mmotors-vok-135120-t-205-m3c-s-obratnym-klapanom_3" />
    <Image url="https://s3.mircli.ru/media/1175715/mmotors-vok-135120-t-205-m3c-s-obratnym-klapanom-ucenennyi_4" />
    <Image url="https://s3.mircli.ru/media/1175716/mmotors-vok-135120-t-205-m3c-s-obratnym-klapanom-ucenennyi_5" />
   </Images>
@@ -8898,16 +8690,15 @@ SWH - серия комбинированных водонагревателей
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1175770/Ariston_PRO1_R_80_V_15K_PL_DRY.jpg" />
-   <Image url="https://s3.mircli.ru/media/1175773/ariston-pro1-r-80-v-15k-pl-dry_1" />
-   <Image url="https://s3.mircli.ru/media/1175774/ariston-pro1-r-80-v-15k-pl-dry_2" />
-   <Image url="https://s3.mircli.ru/media/1175775/ariston-pro1-r-80-v-15k-pl-dry_3" />
    <Image url="https://s3.mircli.ru/media/1175776/ariston-pro1-r-80-v-15k-pl-dry-ucenennyi_4" />
    <Image url="https://s3.mircli.ru/media/1175777/ariston-pro1-r-80-v-15k-pl-dry-ucenennyi_5" />
    <Image url="https://s3.mircli.ru/media/1175778/ariston-pro1-r-80-v-15k-pl-dry-ucenennyi_6" />
    <Image url="https://s3.mircli.ru/media/1175779/ariston-pro1-r-80-v-15k-pl-dry-ucenennyi_7" />
    <Image url="https://s3.mircli.ru/media/1175780/ariston-pro1-r-80-v-15k-pl-dry-ucenennyi_8" />
    <Image url="https://s3.mircli.ru/media/1175781/ariston-pro1-r-80-v-15k-pl-dry-ucenennyi_9" />
+   <Image url="https://s3.mircli.ru/media/1175782/ariston-pro1-r-80-v-15k-pl-dry-ucenennyi_10" />
+   <Image url="https://s3.mircli.ru/media/1175783/ariston-pro1-r-80-v-15k-pl-dry-ucenennyi_11" />
+   <Image url="https://s3.mircli.ru/media/1175784/ariston-pro1-r-80-v-15k-pl-dry-ucenennyi_12" />
   </Images>
   <Category>Бытовая техника</Category>
   <GoodsType>Климатическое оборудование</GoodsType>
@@ -8938,10 +8729,6 @@ SWH - серия комбинированных водонагревателей
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1175786/Karina_OPTIMA_6.jpg" />
-   <Image url="https://s3.mircli.ru/media/1175789/karina-optima-6_1" />
-   <Image url="https://s3.mircli.ru/media/1175790/karina-optima-6_2" />
-   <Image url="https://s3.mircli.ru/media/1175791/karina-optima-6_3" />
    <Image url="https://s3.mircli.ru/media/1175792/karina-optima-6-ucenennaia_4" />
    <Image url="https://s3.mircli.ru/media/1175793/karina-optima-6-ucenennaia_5" />
   </Images>
@@ -9079,7 +8866,7 @@ SWH - серия комбинированных водонагревателей
   <HeatingSubType>Радиаторы</HeatingSubType>
   <RadiatorType>Секционный</RadiatorType>
   <Material>Алюминий</Material>
-  <RadiatorSectionsCount>12</RadiatorSectionsCount>
+  <SectionQuantity>12</SectionQuantity>
   <PriceFor>Штуку</PriceFor>
  </Ad>
  <Ad>
@@ -9151,16 +8938,16 @@ SWH - серия комбинированных водонагревателей
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1178080/Tropik_Line_m_9.jpg" />
-   <Image url="https://s3.mircli.ru/media/1178099/tropik-m-9_1" />
-   <Image url="https://s3.mircli.ru/media/1178100/tropik-m-9_2" />
-   <Image url="https://s3.mircli.ru/media/1178101/tropik-m-9_3" />
    <Image url="https://s3.mircli.ru/media/1178103/tropik-m-9-ucenennyi_4" />
    <Image url="https://s3.mircli.ru/media/1178104/tropik-m-9-ucenennyi_5" />
    <Image url="https://s3.mircli.ru/media/1178105/tropik-m-9-ucenennyi_6" />
    <Image url="https://s3.mircli.ru/media/1178106/tropik-m-9-ucenennyi_7" />
    <Image url="https://s3.mircli.ru/media/1178107/tropik-m-9-ucenennyi_8" />
    <Image url="https://s3.mircli.ru/media/1178108/tropik-m-9-ucenennyi_9" />
+   <Image url="https://s3.mircli.ru/media/1178109/tropik-m-9-ucenennyi_10" />
+   <Image url="https://s3.mircli.ru/media/1178110/tropik-m-9-ucenennyi_11" />
+   <Image url="https://s3.mircli.ru/media/1178111/tropik-m-9-ucenennyi_12" />
+   <Image url="https://s3.mircli.ru/media/1178112/tropik-m-9-ucenennyi_13" />
   </Images>
   <Category>Бытовая техника</Category>
   <GoodsType>Климатическое оборудование</GoodsType>
@@ -9194,10 +8981,6 @@ SWH - серия комбинированных водонагревателей
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1178143/Thermex_Lima_50_V_Wi_Fi.png" />
-   <Image url="https://s3.mircli.ru/media/1178147/thermex-lima-50-v-wi-fi_1" />
-   <Image url="https://s3.mircli.ru/media/1178148/thermex-lima-50-v-wi-fi_2" />
-   <Image url="https://s3.mircli.ru/media/1178149/thermex-lima-50-v-wi-fi_3" />
    <Image url="https://s3.mircli.ru/media/1178158/thermex-lima-50-v-wi-fi-ucenennyi_4" />
    <Image url="https://s3.mircli.ru/media/1178159/thermex-lima-50-v-wi-fi-ucenennyi_5" />
   </Images>
@@ -9234,10 +9017,6 @@ SWH - серия комбинированных водонагревателей
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1178212/livgidromash_mini_gnom_7_7d_220v.jpg" />
-   <Image url="https://s3.mircli.ru/media/1178215/livgidromash-mini-gnom-7-7d-220v_1" />
-   <Image url="https://s3.mircli.ru/media/1178216/livgidromash-mini-gnom-7-7d-220v_2" />
-   <Image url="https://s3.mircli.ru/media/1178217/livgidromash-mini-gnom-7-7d-220v_3" />
    <Image url="https://s3.mircli.ru/media/1178218/livgidromash-mini-gnom-7-7d-220v-ucenennyi_4" />
   </Images>
   <Brand>Ливгидромаш</Brand>
@@ -9311,9 +9090,6 @@ SWH - серия комбинированных водонагревателей
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1178773/Gree_AiryGWH18AVDXE_K6DNA1AI_black.png" />
-   <Image url="https://s3.mircli.ru/media/1178789/gree-airy-gwh18avdxe-k6dna1ai-black_1" />
-   <Image url="https://s3.mircli.ru/media/1178790/gree-airy-gwh18avdxe-k6dna1ai-black_2" />
    <Image url="https://s3.mircli.ru/media/1178791/gree-airy-gwh18avdxe-k6dna1ai-black-ucenennyi_3" />
    <Image url="https://s3.mircli.ru/media/1178792/gree-airy-gwh18avdxe-k6dna1ai-black-ucenennyi_4" />
    <Image url="https://s3.mircli.ru/media/1178793/gree-airy-gwh18avdxe-k6dna1ai-black-ucenennyi_5" />
@@ -9349,10 +9125,6 @@ SWH - серия комбинированных водонагревателей
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1178794/Haier_FCD_JTLD200(2).jpg" />
-   <Image url="https://s3.mircli.ru/media/1178800/haier-fcd-jtld200_1" />
-   <Image url="https://s3.mircli.ru/media/1178801/haier-fcd-jtld200_2" />
-   <Image url="https://s3.mircli.ru/media/1178802/haier-fcd-jtld200_3" />
    <Image url="https://s3.mircli.ru/media/1178803/haier-fcd-jtld200-ucenennyi_4" />
    <Image url="https://s3.mircli.ru/media/1178804/haier-fcd-jtld200-ucenennyi_5" />
    <Image url="https://s3.mircli.ru/media/1178805/haier-fcd-jtld200-ucenennyi_6" />
@@ -9392,10 +9164,6 @@ SWH - серия комбинированных водонагревателей
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1178838/Brofer_FUTURE_T_1000x150.jpeg" />
-   <Image url="https://s3.mircli.ru/media/1178842/brofer-future-t-1000x150_1" />
-   <Image url="https://s3.mircli.ru/media/1178843/brofer-future-t-1000x150_2" />
-   <Image url="https://s3.mircli.ru/media/1178844/brofer-future-t-1000x150_3" />
    <Image url="https://s3.mircli.ru/media/1178845/brofer-future-t-1000x150-ucenennyi_4" />
    <Image url="https://s3.mircli.ru/media/1178846/brofer-future-t-1000x150-ucenennyi_5" />
   </Images>
@@ -9435,7 +9203,6 @@ Kyoto Nord - новая серия низкотемпературных конд
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1179725/ishimatsu-kyoto-nord-amk-09h-ws-40_1" />
    <Image url="https://s3.mircli.ru/media/1179742/ishimatsu-kyoto-nord-amk-09h-ws-40-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1179743/ishimatsu-kyoto-nord-amk-09h-ws-40-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1179744/ishimatsu-kyoto-nord-amk-09h-ws-40-ucenennyi_3" />
@@ -9488,7 +9255,6 @@ ProCool – это серия инверторных сплит-систем д�
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1180405/Lg_ProCool_B09TS.NSJB09TS.UA3(1).jpg" />
    <Image url="https://s3.mircli.ru/media/1180408/lg-procool-b09tsnsjb09tsua3-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1180409/lg-procool-b09tsnsjb09tsua3-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1180410/lg-procool-b09tsnsjb09tsua3-ucenennyi_3" />
@@ -9586,7 +9352,6 @@ ProCool – это серия инверторных сплит-систем д�
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1188490/Ariston_PRO1_R_ABS_50_V_SLIM.jpg" />
    <Image url="https://s3.mircli.ru/media/1188494/ariston-pro1-r-abs-50-v-slim-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1188495/ariston-pro1-r-abs-50-v-slim-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1188496/ariston-pro1-r-abs-50-v-slim-ucenennyi_3" />
@@ -9628,7 +9393,6 @@ ProCool – это серия инверторных сплит-систем д�
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1202879/Domoterm_DMT_109_4_5050_EK_LR.jpg" />
    <Image url="https://s3.mircli.ru/media/1202892/domoterm-dmt-109-4-5050-ek-l-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1202893/domoterm-dmt-109-4-5050-ek-l-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1202894/domoterm-dmt-109-4-5050-ek-l-ucenennyi_3" />
@@ -9660,7 +9424,6 @@ ProCool – это серия инверторных сплит-систем д�
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1202921/CONNEX_ASD_110_WHITE(2).jpg" />
    <Image url="https://s3.mircli.ru/media/1202924/connex-asd-110-white-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1202926/connex-asd-110-white-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1202927/connex-asd-110-white-ucenennyi_3" />
@@ -9706,7 +9469,6 @@ ProCool – это серия инверторных сплит-систем д�
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1202946/royal-clima-gloria-rci-gl22hn_3" />
    <Image url="https://s3.mircli.ru/media/1202949/royal-clima-gloria-rci-gl22hn-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1202950/royal-clima-gloria-rci-gl22hn-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1202951/royal-clima-gloria-rci-gl22hn-ucenennyi_3" />
@@ -9755,7 +9517,6 @@ ProCool – это серия инверторных сплит-систем д�
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1202995/Lg_DC09RH(3).jpg" />
    <Image url="https://s3.mircli.ru/media/1203007/lg-evo-max-dc09rh-ucenennyi-18639_1" />
    <Image url="https://s3.mircli.ru/media/1203008/lg-evo-max-dc09rh-ucenennyi-18639_2" />
    <Image url="https://s3.mircli.ru/media/1203009/lg-evo-max-dc09rh-ucenennyi-18639_3" />
@@ -9765,6 +9526,7 @@ ProCool – это серия инверторных сплит-систем д�
    <Image url="https://s3.mircli.ru/media/1203014/lg-evo-max-dc09rh-ucenennyi-18639_8" />
    <Image url="https://s3.mircli.ru/media/1203015/lg-evo-max-dc09rh-ucenennyi-18639_9" />
    <Image url="https://s3.mircli.ru/media/1203016/lg-evo-max-dc09rh-ucenennyi-18639_10" />
+   <Image url="https://s3.mircli.ru/media/1203011/lg-evo-max-dc09rh-ucenennyi-18639_5" />
   </Images>
   <Category>Бытовая техника</Category>
   <GoodsType>Климатическое оборудование</GoodsType>
@@ -9805,7 +9567,6 @@ ProCool – это серия инверторных сплит-систем д�
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1203120/royal-clima-gloria-rc-gl22hn_1" />
    <Image url="https://s3.mircli.ru/media/1203139/royal-clima-gloria-rc-gl22hn-ucenennyi-17731_1" />
    <Image url="https://s3.mircli.ru/media/1203140/royal-clima-gloria-rc-gl22hn-ucenennyi-17731_2" />
    <Image url="https://s3.mircli.ru/media/1203141/royal-clima-gloria-rc-gl22hn-ucenennyi-17731_3" />
@@ -9855,7 +9616,6 @@ ProCool – это серия инверторных сплит-систем д�
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1203239/Denko_DNP_24_a(1).jpg" />
    <Image url="https://s3.mircli.ru/media/1203252/denko-dnp-24-a-ucenennyi-17761_1" />
    <Image url="https://s3.mircli.ru/media/1203253/denko-dnp-24-a-ucenennyi-17761_2" />
    <Image url="https://s3.mircli.ru/media/1203254/denko-dnp-24-a-ucenennyi-17761_3" />
@@ -9895,7 +9655,6 @@ ProCool – это серия инверторных сплит-систем д�
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1203402/nika_ldbp_lesenka_dugabokovoe_podkluchenie_standart_60h40__32sm.jpg" />
    <Image url="https://s3.mircli.ru/media/1203411/nika-ldbp-lesenka-dugabokovoe-podkliucenie-standart-60x40-32sm-ucenennyi-18931_2" />
    <Image url="https://s3.mircli.ru/media/1203409/nika-ldbp-lesenka-dugabokovoe-podkliucenie-standart-60x40-32sm-ucenennyi-18931_1" />
    <Image url="https://s3.mircli.ru/media/1203412/nika-ldbp-lesenka-dugabokovoe-podkliucenie-standart-60x40-32sm-ucenennyi-18931_3" />
@@ -9931,8 +9690,6 @@ ProCool – это серия инверторных сплит-систем д�
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1203845/Lessar_Flexcool_LS_HE12KCE2BLU_HE12KCE2B.jpg" />
-   <Image url="https://s3.mircli.ru/media/1203847/Lessar_Flexcool_LS_HE12KCE2BLU_HE12KCE2B(2).jpg" />
    <Image url="https://s3.mircli.ru/media/1203849/lessar-flexcool-ls-he12kce2blu-he12kce2b-ucenennyi-19059_2" />
    <Image url="https://s3.mircli.ru/media/1203850/lessar-flexcool-ls-he12kce2blu-he12kce2b-ucenennyi-19059_3" />
    <Image url="https://s3.mircli.ru/media/1203851/lessar-flexcool-ls-he12kce2blu-he12kce2b-ucenennyi-19059_4" />
@@ -9970,7 +9727,6 @@ ProCool – это серия инверторных сплит-систем д�
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1203867/AEL_LD_AEL_85s_whiteblack.jpg" />
    <Image url="https://s3.mircli.ru/media/1203888/ael-ld-ael-85s-whiteblack-ucenennyi-19003_1" />
    <Image url="https://s3.mircli.ru/media/1203889/ael-ld-ael-85s-whiteblack-ucenennyi-19003_2" />
    <Image url="https://s3.mircli.ru/media/1203890/ael-ld-ael-85s-whiteblack-ucenennyi-19003_3" />
@@ -10015,7 +9771,6 @@ ProCool – это серия инверторных сплит-систем д�
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1203894/Drazice_OKCE_125.jpg" />
    <Image url="https://s3.mircli.ru/media/1203901/drazice-okce-125-ucenennyi-19411_1" />
    <Image url="https://s3.mircli.ru/media/1203902/drazice-okce-125-ucenennyi-19411_2" />
    <Image url="https://s3.mircli.ru/media/1203903/drazice-okce-125-ucenennyi-19411_3" />
@@ -10060,7 +9815,6 @@ ProCool – это серия инверторных сплит-систем д�
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1203932/dvin_D_pobeda_1_5050.png" />
    <Image url="https://s3.mircli.ru/media/1203946/dvin-d-pobeda-1-5050-ucenennyi-19533_1" />
    <Image url="https://s3.mircli.ru/media/1203947/dvin-d-pobeda-1-5050-ucenennyi-19533_2" />
    <Image url="https://s3.mircli.ru/media/1203948/dvin-d-pobeda-1-5050-ucenennyi-19533_3" />
@@ -10116,7 +9870,6 @@ Integra Pro Inverter – это серия высокопроизводител�
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1204061/Mdv_Integra_Pro_MDSAI_09HRFN8MDOAI_09HFN8(1).png" />
    <Image url="https://s3.mircli.ru/media/1204074/mdv-integra-pro-mdsai2-09hrfn8mdoai2-09hfn8-ucenennyi-19317_1" />
    <Image url="https://s3.mircli.ru/media/1204075/mdv-integra-pro-mdsai2-09hrfn8mdoai2-09hfn8-ucenennyi-19317_2" />
    <Image url="https://s3.mircli.ru/media/1204076/mdv-integra-pro-mdsai2-09hrfn8mdoai2-09hfn8-ucenennyi-19317_3" />
@@ -10154,7 +9907,6 @@ Integra Pro Inverter – это серия высокопроизводител�
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1204779/Ventmachine_D160u.jpg" />
    <Image url="https://s3.mircli.ru/media/1204793/ventmachine-d160u-ucenennyi-19073_1" />
    <Image url="https://s3.mircli.ru/media/1204794/ventmachine-d160u-ucenennyi-19073_2" />
    <Image url="https://s3.mircli.ru/media/1204795/ventmachine-d160u-ucenennyi-19073_3" />
@@ -10211,7 +9963,6 @@ Triumph Profi Duct – это серия полупромышленных кан
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1204809/green-tsi-36d1hwhtso-36hh_0" />
    <Image url="https://s3.mircli.ru/media/1204825/green-tsi-36d1hwhtso-36hh-ucenennyi-19089_1" />
    <Image url="https://s3.mircli.ru/media/1204826/green-tsi-36d1hwhtso-36hh-ucenennyi-19089_2" />
    <Image url="https://s3.mircli.ru/media/1204827/green-tsi-36d1hwhtso-36hh-ucenennyi-19089_3" />
@@ -10221,6 +9972,7 @@ Triumph Profi Duct – это серия полупромышленных кан
    <Image url="https://s3.mircli.ru/media/1204831/green-tsi-36d1hwhtso-36hh-ucenennyi-19089_7" />
    <Image url="https://s3.mircli.ru/media/1204832/green-tsi-36d1hwhtso-36hh-ucenennyi-19089_8" />
    <Image url="https://s3.mircli.ru/media/1204833/green-tsi-36d1hwhtso-36hh-ucenennyi-19089_9" />
+   <Image url="https://s3.mircli.ru/media/1204835/green-tsi-36d1hwhtso-36hh-ucenennyi-19089_10" />
   </Images>
   <Category>Бытовая техника</Category>
   <GoodsType>Климатическое оборудование</GoodsType>
@@ -10260,7 +10012,6 @@ Triumph Profi Duct – это серия полупромышленных кан
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1204886/Ballu_BHG_30LS.jpg" />
    <Image url="https://s3.mircli.ru/media/1204892/ballu-bhg-30ls-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1204893/ballu-bhg-30ls-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1204894/ballu-bhg-30ls-ucenennyi_3" />
@@ -10300,7 +10051,6 @@ Triumph Profi Duct – это серия полупромышленных кан
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1204899/Electrolux_EACM_18_HPN3.jpg" />
    <Image url="https://s3.mircli.ru/media/1204906/electrolux-cool-power-eacm-18-hpn3-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1204907/electrolux-cool-power-eacm-18-hpn3-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1204908/electrolux-cool-power-eacm-18-hpn3-ucenennyi_3" />
@@ -10310,6 +10060,7 @@ Triumph Profi Duct – это серия полупромышленных кан
    <Image url="https://s3.mircli.ru/media/1204912/electrolux-cool-power-eacm-18-hpn3-ucenennyi_7" />
    <Image url="https://s3.mircli.ru/media/1204913/electrolux-cool-power-eacm-18-hpn3-ucenennyi_8" />
    <Image url="https://s3.mircli.ru/media/1204914/electrolux-cool-power-eacm-18-hpn3-ucenennyi_9" />
+   <Image url="https://s3.mircli.ru/media/1204915/electrolux-cool-power-eacm-18-hpn3-ucenennyi_10" />
   </Images>
   <Category>Бытовая техника</Category>
   <GoodsType>Климатическое оборудование</GoodsType>
@@ -10346,7 +10097,6 @@ Triumph Profi Duct – это серия полупромышленных кан
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1204930/Thermex_Menta.png" />
    <Image url="https://s3.mircli.ru/media/1204931/thermex-menta-ucenennaia_1" />
    <Image url="https://s3.mircli.ru/media/1204932/thermex-menta-ucenennaia_2" />
    <Image url="https://s3.mircli.ru/media/1204933/thermex-menta-ucenennaia_3" />
@@ -10383,7 +10133,6 @@ Triumph Profi Duct – это серия полупромышленных кан
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1204940/Nikaten_650.png" />
    <Image url="https://s3.mircli.ru/media/1204943/nikaten-650-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1204944/nikaten-650-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1204945/nikaten-650-ucenennyi_3" />
@@ -10427,7 +10176,6 @@ Triumph Profi Duct – это серия полупромышленных кан
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1205085/Haier_Quantum_AS35HQJ1HRA_W1U35HQJ1FRA(1).png" />
    <Image url="https://s3.mircli.ru/media/1205097/haier-quantum-as35hqj1hra-w1u35hqj1fra-ucenennyi-18737_1" />
    <Image url="https://s3.mircli.ru/media/1205098/haier-quantum-as35hqj1hra-w1u35hqj1fra-ucenennyi-18737_2" />
    <Image url="https://s3.mircli.ru/media/1205099/haier-quantum-as35hqj1hra-w1u35hqj1fra-ucenennyi-18737_3" />
@@ -10469,7 +10217,6 @@ Triumph Profi Duct – это серия полупромышленных кан
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1209283/Kospel_SP_180.jpg" />
    <Image url="https://s3.mircli.ru/media/1209286/kospel-sp-180-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1209287/kospel-sp-180-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1209288/kospel-sp-180-ucenennyi_3" />
@@ -10479,6 +10226,7 @@ Triumph Profi Duct – это серия полупромышленных кан
    <Image url="https://s3.mircli.ru/media/1209292/kospel-sp-180-ucenennyi_7" />
    <Image url="https://s3.mircli.ru/media/1209293/kospel-sp-180-ucenennyi_8" />
    <Image url="https://s3.mircli.ru/media/1209299/kospel-sp-180-ucenennyi_9" />
+   <Image url="https://s3.mircli.ru/media/1209300/kospel-sp-180-ucenennyi_10" />
   </Images>
   <Category>Бытовая техника</Category>
   <GoodsType>Климатическое оборудование</GoodsType>
@@ -10510,7 +10258,6 @@ Triumph Profi Duct – это серия полупромышленных кан
   <ManagerName>OOO "Миркли"</ManagerName>
   <ContactPhone>8 (800) 350-05-31</ContactPhone>
   <Images>
-   <Image url="https://s3.mircli.ru/media/1209304/Kospel_SE_200.jpg" />
    <Image url="https://s3.mircli.ru/media/1209308/kospel-se-200-ucenennyi_1" />
    <Image url="https://s3.mircli.ru/media/1209309/kospel-se-200-ucenennyi_2" />
    <Image url="https://s3.mircli.ru/media/1209310/kospel-se-200-ucenennyi_3" />
@@ -10520,6 +10267,7 @@ Triumph Profi Duct – это серия полупромышленных кан
    <Image url="https://s3.mircli.ru/media/1209314/kospel-se-200-ucenennyi_7" />
    <Image url="https://s3.mircli.ru/media/1209315/kospel-se-200-ucenennyi_8" />
    <Image url="https://s3.mircli.ru/media/1209317/kospel-se-200-ucenennyi_9" />
+   <Image url="https://s3.mircli.ru/media/1209318/kospel-se-200-ucenennyi_10" />
   </Images>
   <Category>Ремонт и строительство</Category>
   <GoodsType>Камины и обогреватели</GoodsType>
