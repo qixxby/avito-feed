@@ -6240,7 +6240,6 @@ ECLIPSE INVERTER 2024 – серия современных, производи�
   <Id>298154</Id>
   <Title>Бойлер косвенного нагрева Eldom WV10046SRD уценённый #13665</Title>
   <Price>33990</Price>
-  <Vendor>Eldom</Vendor>
   <Description>Причина уценки: Новый, упакован, царапины и потертости на корпусе.
 Цена нового товара — 60 528 ₽, вы экономите 26 538 ₽ (44%).
 Артикул: 298154
@@ -6283,10 +6282,16 @@ ECLIPSE INVERTER 2024 – серия современных, производи�
    <Image url="https://s3.mircli.ru/media/1170794/eldom-wv10046srd-ucenennyi_5" />
    <Image url="https://s3.mircli.ru/media/1170795/eldom-wv10046srd-ucenennyi_6" />
   </Images>
-  <Category>Бытовая техника</Category>
-  <GoodsType>Климатическое оборудование</GoodsType>
-  <ProductType>Обогреватели</ProductType>
-  <GoodsSubType>Водонагреватели</GoodsSubType>
+  <Brand>Eldom</Brand>
+  <Category>Ремонт и строительство</Category>
+  <GoodsType>Сантехника, водоснабжение и сауна</GoodsType>
+  <GoodsSubType>Водоснабжение и канализация</GoodsSubType>
+  <ProductType>Водонагреватели и комплектующие</ProductType>
+  <ProductSubType>Водонагреватели</ProductSubType>
+  <Model>WV10046SRD</Model>
+  <PlumbingSubType>Накопительный</PlumbingSubType>
+  <HeatingType>Комбинированный</HeatingType>
+  <Volume>100</Volume>
  </Ad>
  <Ad>
   <Id>297957</Id>
